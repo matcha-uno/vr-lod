@@ -1,0 +1,59 @@
+{
+  "@context": {
+    "entity": "https://vr.matcha.uno/entity/",
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+    "schema": "https://schema.org/",
+    "vr": "https://vr.matcha.uno/"
+  },
+  "@graph": [
+    {
+      "@id": "entity:4044305",
+      "rdfs:label": "ギミック搭載オリジナル3Dモデル「ソフィナ-Sophina-」",
+      "schema:license": {
+        "@id": "https://drive.google.com/file/d/1tdIKuniVzvnvruY1VZywXaj35SDZpMPQ/view?usp=sharing"
+      },
+      "schema:name": "ソフィナ",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/4044305"
+      }
+    },
+    {
+      "@id": "vr:Prohibited",
+      "rdfs:label": "不許可"
+    },
+    {
+      "@id": "https://drive.google.com/file/d/1tdIKuniVzvnvruY1VZywXaj35SDZpMPQ/view?usp=sharing",
+      "schema:isBasedOn": {
+        "@id": "https://www.vn3.org/terms"
+      },
+      "vr:political": {
+        "@id": "vr:Prohibited"
+      },
+      "vr:sexual": {
+        "@id": "vr:Permitted"
+      },
+      "vr:violent": {
+        "@id": "vr:Permitted"
+      }
+    },
+    {
+      "@id": "vr:violent",
+      "@type": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property",
+      "rdfs:label": "暴力的表現への利用"
+    },
+    {
+      "@id": "vr:Permitted",
+      "rdfs:label": "許可"
+    },
+    {
+      "@id": "vr:political",
+      "@type": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property",
+      "rdfs:label": "政治活動への利用および、宗教活動への利用"
+    },
+    {
+      "@id": "vr:sexual",
+      "@type": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property",
+      "rdfs:label": "性的表現への利用"
+    }
+  ]
+}
