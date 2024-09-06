@@ -1,0 +1,2172 @@
+{
+  "@context": {
+    "entity": "https://vr.matcha.uno/entity/",
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+    "schema": "https://schema.org/",
+    "vr": "https://vr.matcha.uno/"
+  },
+  "@graph": [
+    {
+      "@id": "entity:4825073",
+      "rdfs:label": "『ライム』-Lime-【オリジナル3Dモデル】",
+      "schema:license": {
+        "@id": "https://drive.google.com/file/d/1TYVmTC7Pi2M3UCSyqDx4Z8FTG-LKg2Lc/view?usp=sharing"
+      },
+      "schema:name": "ラシューシャ",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/4825073"
+      }
+    },
+    {
+      "@id": "https://drive.google.com/file/d/16jHwf9QJaip0IWEaEqiGjXZmFa4MHbTB/view?usp=sharing",
+      "schema:isBasedOn": {
+        "@id": "https://www.vn3.org/terms"
+      },
+      "vr:political": {
+        "@id": "vr:Prohibited"
+      },
+      "vr:sexual": {
+        "@id": "vr:Permitted"
+      },
+      "vr:violent": {
+        "@id": "vr:Permitted"
+      }
+    },
+    {
+      "@id": "entity:3152272",
+      "rdfs:label": "【3Dモデル】『ギモザード ver.1.03』",
+      "schema:license": {
+        "@id": "https://booth.pm/ja/items/3152272#license"
+      },
+      "schema:name": "ギモザード",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/3152272"
+      }
+    },
+    {
+      "@id": "https://drive.google.com/file/d/1S5Tfj_d8d0klTBier_b19JlwEvSLsxkG/view",
+      "vr:sexual": {
+        "@id": "vr:Permitted"
+      },
+      "vr:violent": {
+        "@id": "vr:Permitted"
+      }
+    },
+    {
+      "@id": "entity:2495796",
+      "rdfs:label": "オリジナル3Dモデル『レイニィ』",
+      "schema:license": {
+        "@id": "https://drive.google.com/file/d/1toySAGxVxKPS_zypaDI08FErXfBe9mMe/view?usp=sharing"
+      },
+      "schema:name": "レイニィ",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/2495796"
+      }
+    },
+    {
+      "@id": "entity:3162696",
+      "rdfs:label": "【オリジナル3Dモデル】碼希-まき-",
+      "schema:license": {
+        "@id": "https://drive.google.com/file/d/1rzFcYHyEfmLfmZIP2NarrbwosyCM0rTL/view?usp=sharing"
+      },
+      "schema:name": "碼希",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/3162696"
+      }
+    },
+    {
+      "@id": "entity:5650156",
+      "rdfs:label": "【オリジナル3Dモデル】 Sio / しお",
+      "schema:license": {
+        "@id": "https://drive.google.com/file/d/17VWFIPLh6eLYPHl1stdh2rWa-yQT93bg/view?usp=sharing"
+      },
+      "schema:name": "しお",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/5650156"
+      }
+    },
+    {
+      "@id": "entity:4296377",
+      "rdfs:label": "【オリジナル3Dモデル】リルモワ -Liloumois- v2.11",
+      "schema:license": {
+        "@id": "https://drive.google.com/file/d/1JZS6UP-A9VJhdl8n505FJ4F-eyoFaT7w/view?usp=sharing"
+      },
+      "schema:name": "リルモワ",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/4296377"
+      }
+    },
+    {
+      "@id": "https://drive.google.com/file/d/1ZuUI_L2yIj1-i5VvtJ0Jm90gi1ETnd3g/view?usp=sharing",
+      "schema:isBasedOn": {
+        "@id": "https://www.vn3.org/terms"
+      },
+      "vr:political": {
+        "@id": "vr:Prohibited"
+      },
+      "vr:sexual": {
+        "@id": "vr:Permitted"
+      },
+      "vr:violent": {
+        "@id": "vr:Permitted"
+      }
+    },
+    {
+      "@id": "https://drive.google.com/file/d/1zRK2y2yZ3lYGnCI44JVm7tamOjHj1rUK/view?usp=sharing",
+      "schema:isBasedOn": {
+        "@id": "https://www.vn3.org/terms"
+      },
+      "vr:political": {
+        "@id": "vr:Prohibited"
+      },
+      "vr:sexual": {
+        "@id": "vr:Permitted"
+      },
+      "vr:violent": {
+        "@id": "vr:Permitted"
+      }
+    },
+    {
+      "@id": "https://drive.google.com/file/d/1rzFcYHyEfmLfmZIP2NarrbwosyCM0rTL/vie?wusp=sharing",
+      "schema:isBasedOn": {
+        "@id": "https://www.vn3.org/terms"
+      },
+      "vr:political": {
+        "@id": "vr:Prohibited"
+      },
+      "vr:sexual": {
+        "@id": "vr:Permitted"
+      },
+      "vr:violent": {
+        "@id": "vr:Permitted"
+      }
+    },
+    {
+      "@id": "https://drive.google.com/file/d/17VWFIPLh6eLYPHl1stdh2rWa-yQT93bg/view?usp=sharing",
+      "schema:isBasedOn": {
+        "@id": "https://www.vn3.org/terms"
+      },
+      "vr:political": {
+        "@id": "vr:Prohibited"
+      },
+      "vr:sexual": {
+        "@id": "vr:Permitted"
+      },
+      "vr:violent": {
+        "@id": "vr:Permitted"
+      }
+    },
+    {
+      "@id": "entity:3550881",
+      "rdfs:label": "うささき usasaki / オリジナル3Dモデル",
+      "schema:license": {
+        "@id": "https://mochiyama.page.link/license_jp"
+      },
+      "schema:name": "うささき",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/3550881"
+      }
+    },
+    {
+      "@id": "https://booth.pm/ja/items/954376#license",
+      "vr:political": {
+        "@id": "vr:Prohibited"
+      },
+      "vr:sexual": {
+        "@id": "vr:Permitted"
+      },
+      "vr:violent": {
+        "@id": "vr:Permitted"
+      }
+    },
+    {
+      "@id": "entity:3284430",
+      "rdfs:label": "Adolescent U",
+      "schema:license": {
+        "@id": "https://booth.pm/ja/items/3284430#license"
+      },
+      "schema:name": "Adolescent U",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/3284430"
+      }
+    },
+    {
+      "@id": "entity:2258111",
+      "rdfs:label": "『ミント』-Mint-【オリジナル3Dモデル】",
+      "schema:license": {
+        "@id": "https://drive.google.com/file/d/14c0X2qmzlG2tz9xXFgCkVGBEVSdmPMIS/view?usp=sharing"
+      },
+      "schema:name": "ミント",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/2258111"
+      }
+    },
+    {
+      "@id": "entity:4118550",
+      "rdfs:label": "【3Dモデル】『ゾメちゃん ver.1.3』Avzomend",
+      "schema:license": {
+        "@id": "https://booth.pm/ja/items/4118550#license"
+      },
+      "schema:name": "ゾメちゃん",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/4118550"
+      }
+    },
+    {
+      "@id": "https://booth.pm/ja/items/3853613#license",
+      "vr:political": {
+        "@id": "vr:Prohibited"
+      },
+      "vr:sexual": {
+        "@id": "vr:Prohibited"
+      },
+      "vr:violent": {
+        "@id": "vr:Prohibited"
+      }
+    },
+    {
+      "@id": "https://drive.google.com/file/d/1iy4dgaT7AK1qtCNNpjp2RR_lDJyCIqho/view?usp=sharing",
+      "schema:isBasedOn": {
+        "@id": "https://www.vn3.org/terms"
+      },
+      "vr:political": {
+        "@id": "vr:Prohibited"
+      },
+      "vr:sexual": {
+        "@id": "vr:Prohibited"
+      },
+      "vr:violent": {
+        "@id": "vr:Prohibited"
+      }
+    },
+    {
+      "@id": "entity:2589069",
+      "rdfs:label": "【オリジナル3Dモデル】サタリナ族のメイドさん",
+      "schema:license": {
+        "@id": "https://drive.google.com/file/d/15ltsXX1WyL8-2Oyt7TE06xJyR6YTMsnv/view?usp=sharing"
+      },
+      "schema:name": "サタリナ族のメイドさん",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/2589069"
+      }
+    },
+    {
+      "@id": "entity:3443188",
+      "rdfs:label": "オリジナル3Dモデル「竜胆」ver1.08",
+      "schema:license": {
+        "@id": "https://drive.google.com/file/d/1YI2J3eIl6HaaDhrw6MP5742rKh_L7e7j/view?usp=sharing"
+      },
+      "schema:name": "竜胆",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/3443188"
+      }
+    },
+    {
+      "@id": "https://drive.google.com/file/d/19yBgFkZL7EXhJiwh31LcKJ9XzsfXcoFD/view?usp=sharing",
+      "schema:isBasedOn": {
+        "@id": "https://www.vn3.org/terms"
+      },
+      "vr:political": {
+        "@id": "vr:Prohibited"
+      },
+      "vr:sexual": {
+        "@id": "vr:Permitted"
+      },
+      "vr:violent": {
+        "@id": "vr:Permitted"
+      }
+    },
+    {
+      "@id": "https://booth.pm/ja/items/1202638#license",
+      "vr:political": {
+        "@id": "vr:Prohibited"
+      },
+      "vr:sexual": {
+        "@id": "vr:Permitted"
+      },
+      "vr:violent": {
+        "@id": "vr:Permitted"
+      }
+    },
+    {
+      "@id": "https://drive.google.com/file/d/1JZS6UP-A9VJhdl8n505FJ4F-eyoFaT7w/view?usp=sharing",
+      "schema:isBasedOn": {
+        "@id": "https://www.vn3.org/terms"
+      },
+      "vr:political": {
+        "@id": "vr:Prohibited"
+      },
+      "vr:sexual": {
+        "@id": "vr:Permitted"
+      },
+      "vr:violent": {
+        "@id": "vr:Permitted"
+      }
+    },
+    {
+      "@id": "https://drive.google.com/file/d/1nhNG_1Ud1lZbcJlrikCMZ9MOWSTHW0Qy/view?usp=sharing",
+      "schema:isBasedOn": {
+        "@id": "https://www.vn3.org/terms"
+      },
+      "vr:political": {
+        "@id": "vr:Prohibited"
+      },
+      "vr:sexual": {
+        "@id": "vr:Permitted"
+      },
+      "vr:violent": {
+        "@id": "vr:Permitted"
+      }
+    },
+    {
+      "@id": "entity:4044305",
+      "rdfs:label": "ギミック搭載オリジナル3Dモデル「ソフィナ-Sophina-」",
+      "schema:license": {
+        "@id": "https://drive.google.com/file/d/1tdIKuniVzvnvruY1VZywXaj35SDZpMPQ/view?usp=sharing"
+      },
+      "schema:name": "ソフィナ",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/4044305"
+      }
+    },
+    {
+      "@id": "https://booth.pm/ja/items/4358508#license",
+      "vr:political": {
+        "@id": "vr:Prohibited"
+      },
+      "vr:sexual": {
+        "@id": "vr:Permitted"
+      },
+      "vr:violent": {
+        "@id": "vr:Permitted"
+      }
+    },
+    {
+      "@id": "entity:3564947",
+      "rdfs:label": "オリジナル3Dモデル『あのん』",
+      "schema:license": {
+        "@id": "https://drive.google.com/file/d/1KKk3fotTlwdAckCbls4mqeWZaWLWTUFx/view?usp=sharing"
+      },
+      "schema:name": "あのん",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/3564947"
+      }
+    },
+    {
+      "@id": "entity:1333754",
+      "rdfs:label": "CyberCat2.0【オリジナル3Dモデル】",
+      "schema:license": {
+        "@id": "https://drive.google.com/file/d/1LYKfZkYGoX-RSIVP3UqccbaMJ6SXaOUk/view?wusp=sharing"
+      },
+      "schema:name": "CyberCat",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/1333754"
+      }
+    },
+    {
+      "@id": "https://booth.pm/ja/items/4906631#lincese",
+      "vr:political": {
+        "@id": "vr:Prohibited"
+      },
+      "vr:sexual": {
+        "@id": "vr:Permitted"
+      },
+      "vr:violent": {
+        "@id": "vr:Permitted"
+      }
+    },
+    {
+      "@id": "https://drive.google.com/file/d/1TRsPgWRtGDUjenGR6eMLqRy3Bvll6J0u/view?usp=sharing",
+      "schema:isBasedOn": {
+        "@id": "https://www.vn3.org/terms"
+      },
+      "vr:political": {
+        "@id": "vr:Prohibited"
+      },
+      "vr:sexual": {
+        "@id": "vr:Permitted"
+      },
+      "vr:violent": {
+        "@id": "vr:Permitted"
+      }
+    },
+    {
+      "@id": "https://drive.google.com/file/d/15ltsXX1WyL8-2Oyt7TE06xJyR6YTMsnv/view?usp=sharing",
+      "schema:isBasedOn": {
+        "@id": "https://www.vn3.org/terms"
+      },
+      "vr:political": {
+        "@id": "vr:Prohibited"
+      },
+      "vr:sexual": {
+        "@id": "vr:Permitted"
+      },
+      "vr:violent": {
+        "@id": "vr:Permitted"
+      }
+    },
+    {
+      "@id": "https://drive.google.com/file/d/1QK6b7KD8mTjTzsGN078Jx4xm4cdGkSXp/view?usp=sharing",
+      "schema:isBasedOn": {
+        "@id": "https://www.vn3.org/terms"
+      },
+      "vr:political": {
+        "@id": "vr:Prohibited"
+      },
+      "vr:sexual": {
+        "@id": "vr:Permitted"
+      },
+      "vr:violent": {
+        "@id": "vr:Permitted"
+      }
+    },
+    {
+      "@id": "https://booth.pm/ja/items/3226395#license",
+      "vr:political": {
+        "@id": "vr:Prohibited"
+      },
+      "vr:sexual": {
+        "@id": "vr:Prohibited"
+      },
+      "vr:violent": {
+        "@id": "vr:Prohibited"
+      }
+    },
+    {
+      "@id": "https://drive.google.com/file/d/1TYVmTC7Pi2M3UCSyqDx4Z8FTG-LKg2Lc/view?usp=sharing",
+      "schema:isBasedOn": {
+        "@id": "https://www.vn3.org/terms"
+      },
+      "vr:political": {
+        "@id": "vr:Prohibited"
+      },
+      "vr:sexual": {
+        "@id": "vr:Permitted"
+      },
+      "vr:violent": {
+        "@id": "vr:Permitted"
+      }
+    },
+    {
+      "@id": "entity:3161633",
+      "rdfs:label": "オリジナル3Dモデル「ヨール -Yawl-」#Yawl3D",
+      "schema:license": {
+        "@id": "https://drive.google.com/file/d/1p6R_v_K_8LqmR-3wzoKHwhGfyqv1GVk5/view?usp=sharing"
+      },
+      "schema:name": "ヨール",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/3161633"
+      }
+    },
+    {
+      "@id": "https://booth.pm/ja/items/3152272#license",
+      "vr:political": {
+        "@id": "vr:Prohibited"
+      },
+      "vr:sexual": {
+        "@id": "vr:Permitted"
+      },
+      "vr:violent": {
+        "@id": "vr:Permitted"
+      }
+    },
+    {
+      "@id": "entity:4049292",
+      "rdfs:label": "オリジナル3Dモデル「うるる」#Ururu3D",
+      "schema:license": {
+        "@id": "https://drive.google.com/file/d/17Okh-c2rI5S_K-SFu8ANDyLuRApiGBfR/view?usp=sharing"
+      },
+      "schema:name": "うるる",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/4049292"
+      }
+    },
+    {
+      "@id": "entity:3329958",
+      "rdfs:label": "「くろなつ」オリジナル3Dアバター",
+      "schema:license": {
+        "@id": "https://drive.google.com/file/d/1GcfQ0N3Nseg74gqsdjtv4Z7W2OXeUYuf/view?usp=sharing"
+      },
+      "schema:name": "くろなつ",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/3329958"
+      }
+    },
+    {
+      "@id": "entity:4252664",
+      "rdfs:label": "New  NecoMaid",
+      "schema:license": {
+        "@id": "https://booth.pm/ja/items/4252664#license"
+      },
+      "schema:name": "New NecoMaid",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/4252664"
+      }
+    },
+    {
+      "@id": "entity:5209634",
+      "rdfs:label": "オリジナルモデル「イリス(Iris)」",
+      "schema:license": {
+        "@id": "https://booth.pm/ja/items/5209634#license"
+      },
+      "schema:name": "イリス",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/5209634"
+      }
+    },
+    {
+      "@id": "entity:4213786",
+      "rdfs:label": "【お買い得セット】　オリジナル3Dモデル「INABA」「椎名」「狐雨」 ",
+      "schema:license": {
+        "@id": "https://drive.google.com/file/d/1Dg1-KB5h5Q08OynojfjBPOnrQ5cevNjx/view?usp=sharing"
+      },
+      "schema:name": "椎名狐雨",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/4213786"
+      }
+    },
+    {
+      "@id": "entity:3390339",
+      "rdfs:label": "【オリジナル3Dモデル】まりえる",
+      "schema:license": {
+        "@id": "https://drive.google.com/file/d/1rzFcYHyEfmLfmZIP2NarrbwosyCM0rTL/view?usp=sharing"
+      },
+      "schema:name": "まりえる",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/3390339"
+      }
+    },
+    {
+      "@id": "https://booth.pm/ja/items/2780069#license",
+      "vr:political": {
+        "@id": "vr:Prohibited"
+      },
+      "vr:sexual": {
+        "@id": "vr:Permitted"
+      },
+      "vr:violent": {
+        "@id": "vr:Permitted"
+      }
+    },
+    {
+      "@id": "https://drive.google.com/file/d/1Q4rUpM1JWlX4IKJF9uNTwXDPMpmEXX6K/view?usp=sharing",
+      "schema:isBasedOn": {
+        "@id": "https://www.vn3.org/terms"
+      },
+      "vr:political": {
+        "@id": "vr:Prohibited"
+      },
+      "vr:sexual": {
+        "@id": "vr:Permitted"
+      },
+      "vr:violent": {
+        "@id": "vr:Permitted"
+      }
+    },
+    {
+      "@id": "entity:4887691",
+      "rdfs:label": "オリジナル3Dモデル『ルゼブル』-Lzebul-",
+      "schema:license": {
+        "@id": "https://drive.google.com/file/d/1qLjryvvwFsshxJnfnTejAL8GHIhbLVv1/view?usp=sharing"
+      },
+      "schema:name": "ルゼブル",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/4887691"
+      }
+    },
+    {
+      "@id": "entity:1484117",
+      "rdfs:label": "【オリジナル3Dモデル】幽狐族のお姉様",
+      "schema:license": {
+        "@id": "https://booth.pm/ja/items/1484117#license"
+      },
+      "schema:name": "幽狐族のお姉様",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/1484117"
+      }
+    },
+    {
+      "@id": "entity:3853613",
+      "rdfs:label": "【VRC・VRM アバター】inuinu いぬいぬ 【Quest対応】",
+      "schema:license": {
+        "@id": "https://booth.pm/ja/items/3853613#license"
+      },
+      "schema:name": "いぬいぬ",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/3853613"
+      }
+    },
+    {
+      "@id": "entity:4358508",
+      "rdfs:label": "オリジナル3Ｄモデル「ユギ」「ミヨ」",
+      "schema:license": {
+        "@id": "https://booth.pm/ja/items/4358508#license"
+      },
+      "schema:name": "ユギミヨ",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/4358508"
+      }
+    },
+    {
+      "@id": "https://drive.google.com/file/d/1iBBssWJMqPg3IT3utIu_7mx9L7snEYSv/view?usp=sharing",
+      "schema:isBasedOn": {
+        "@id": "https://www.vn3.org/terms"
+      },
+      "vr:political": {
+        "@id": "vr:Prohibited"
+      },
+      "vr:sexual": {
+        "@id": "vr:Permitted"
+      },
+      "vr:violent": {
+        "@id": "vr:Permitted"
+      }
+    },
+    {
+      "@id": "https://booth.pm/ja/items/1777704#license",
+      "vr:political": {
+        "@id": "vr:Prohibited"
+      },
+      "vr:sexual": {
+        "@id": "vr:Permitted"
+      },
+      "vr:violent": {
+        "@id": "vr:Permitted"
+      }
+    },
+    {
+      "@id": "entity:4431242",
+      "rdfs:label": "オリジナル3Dモデル「めいゆん -meiyun-」",
+      "schema:license": {
+        "@id": "https://drive.google.com/file/d/1NUv_9ILSSO1TAogmiM6lPO96azcIiLZl/view?usp=sharing"
+      },
+      "schema:name": "めいゆん",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/4431242"
+      }
+    },
+    {
+      "@id": "entity:1130532",
+      "rdfs:label": "【オリジナル3Dモデル】メディカルセンタースタッフさん",
+      "schema:license": {
+        "@id": "https://booth.pm/ja/items/1130532#license"
+      },
+      "schema:name": "メディカルセンタースタッフさん",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/1130532"
+      }
+    },
+    {
+      "@id": "entity:1572406",
+      "rdfs:label": "オリジナル3Dモデル『Noy』ver3.1",
+      "schema:license": {
+        "@id": "https://drive.google.com/file/d/1Q4rUpM1JWlX4IKJF9uNTwXDPMpmEXX6K/view?usp=sharing"
+      },
+      "schema:name": "Noyver",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/1572406"
+      }
+    },
+    {
+      "@id": "entity:1256087",
+      "rdfs:label": "オリジナル3Dモデル「ミーシェ」",
+      "schema:license": {
+        "@id": "https://drive.google.com/file/d/1T1zjIU-5wb_5eSpb2RsmTNSbw5wtu9zy/view?usp=sharing"
+      },
+      "schema:name": "ミーシェ",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/1256087"
+      }
+    },
+    {
+      "@id": "entity:3234473",
+      "rdfs:label": "【オリジナル3Dモデル】  アッシュ （ASH）◆セフィラ共通素体",
+      "schema:license": {
+        "@id": "https://drive.google.com/file/d/1Qv0jqcX2ng5ZsmJLOYtgTYrgZETBuaIQ/view?usp=sharing"
+      },
+      "schema:name": "アッシュ",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/3234473"
+      }
+    },
+    {
+      "@id": "entity:3738752",
+      "rdfs:label": "無料アバター「セレアーテ」ファンメイド",
+      "schema:license": {
+        "@id": "https://booth.pm/ja/items/3738752#license"
+      },
+      "schema:name": "セレアーテ",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/3738752"
+      }
+    },
+    {
+      "@id": "entity:972543",
+      "rdfs:label": "【3Dモデル】Xena -ゼナ-【PhysBones対応】",
+      "schema:license": {
+        "@id": "https://drive.google.com/file/d/1QK6b7KD8mTjTzsGN078Jx4xm4cdGkSXp/view?usp=sharing"
+      },
+      "schema:name": "ゼナ",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/972543"
+      }
+    },
+    {
+      "@id": "entity:2789739",
+      "rdfs:label": "オリジナル3Dモデル　Scented【センティッド】",
+      "schema:license": {
+        "@id": "https://drive.google.com/file/d/1Sc5PzcyTPZZD4ZQIxXRQkwXjh7gzDMRn/view?usp=sharing"
+      },
+      "schema:name": "センティッド",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/2789739"
+      }
+    },
+    {
+      "@id": "vr:political",
+      "@type": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property",
+      "rdfs:label": "政治活動への利用および、宗教活動への利用"
+    },
+    {
+      "@id": "https://drive.google.com/file/d/1Sskl4TJ4fN7_hc1MJBe0FzmqGTJBhkDX/view?usp=sharing",
+      "schema:isBasedOn": {
+        "@id": "https://www.vn3.org/terms"
+      },
+      "vr:political": {
+        "@id": "vr:Prohibited"
+      },
+      "vr:sexual": {
+        "@id": "vr:Permitted"
+      },
+      "vr:violent": {
+        "@id": "vr:Permitted"
+      }
+    },
+    {
+      "@id": "entity:3302156",
+      "rdfs:label": "【オリジナル3Dモデル】ミュリシア -Mulicia- v2.0.3【VRMあり】",
+      "schema:license": {
+        "@id": "https://drive.google.com/file/d/186HJrbn2ek1IZllYfyYF7DEXhIMsQ3ON/view?usp=sharing"
+      },
+      "schema:name": "ミュリシア",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/3302156"
+      }
+    },
+    {
+      "@id": "https://booth.pm/ja/items/3480756#license",
+      "vr:political": {
+        "@id": "vr:Prohibited"
+      },
+      "vr:sexual": {
+        "@id": "vr:Permitted"
+      }
+    },
+    {
+      "@id": "entity:2953391",
+      "rdfs:label": "『ミルク  Re』-Milk Re-【オリジナル3Dモデル】",
+      "schema:license": {
+        "@id": "https://drive.google.com/file/d/14c0X2qmzlG2tz9xXFgCkVGBEVSdmPMIS/view?usp=sharing"
+      },
+      "schema:name": "ミルク",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/2953391"
+      }
+    },
+    {
+      "@id": "entity:2351859",
+      "rdfs:label": "オリジナル3Dモデル「メリノ」",
+      "schema:license": {
+        "@id": "https://drive.google.com/file/d/1br_XYfFhnWNWErdIo-dansX3rXnmX_C2/view?usp=sharing"
+      },
+      "schema:name": "メリノ",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/2351859"
+      }
+    },
+    {
+      "@id": "https://drive.google.com/file/d/1K8AcjlYHFfJ4cFcJvBvvwei79qwlbqFx/view?usp=sharing",
+      "schema:isBasedOn": {
+        "@id": "https://www.vn3.org/terms"
+      },
+      "vr:political": {
+        "@id": "vr:Prohibited"
+      },
+      "vr:sexual": {
+        "@id": "vr:Permitted"
+      },
+      "vr:violent": {
+        "@id": "vr:Permitted"
+      }
+    },
+    {
+      "@id": "https://drive.google.com/file/d/1YI2J3eIl6HaaDhrw6MP5742rKh_L7e7j/view?usp=sharing",
+      "schema:isBasedOn": {
+        "@id": "https://www.vn3.org/terms"
+      },
+      "vr:political": {
+        "@id": "vr:Prohibited"
+      },
+      "vr:sexual": {
+        "@id": "vr:Permitted"
+      },
+      "vr:violent": {
+        "@id": "vr:Permitted"
+      }
+    },
+    {
+      "@id": "entity:972559",
+      "rdfs:label": "【3Dモデル】Leeme -リーメ- & Reeva -リーバ-【PhysBones対応】",
+      "schema:license": {
+        "@id": "https://uv-license.com/ja/license?utf8=%E2%9C%93&pcu=true&ccu=true&ddw=true&dmd=true&seu=true&veu=true&remarks=true"
+      },
+      "schema:name": "リーメ＆リーバ",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/972559"
+      }
+    },
+    {
+      "@id": "entity:3472207",
+      "rdfs:label": "3Dモデル『トラスとウェッジ』",
+      "schema:license": {
+        "@id": "https://booth.pm/ja/items/3472207#license"
+      },
+      "schema:name": "トラスとウェッジ",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/3472207"
+      }
+    },
+    {
+      "@id": "entity:3741802",
+      "rdfs:label": "VR向けアバターモデル「RadDollV2」【無料】",
+      "schema:license": {
+        "@id": "https://drive.google.com/file/d/1Wo11Fjw1E2oxslv8hexHb7VFULpfeIqx/view?usp=sharing"
+      },
+      "schema:name": "RadDoll",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/3741802"
+      }
+    },
+    {
+      "@id": "https://drive.google.com/file/d/1rzFcYHyEfmLfmZIP2NarrbwosyCM0rTL/view?usp=sharing",
+      "schema:isBasedOn": {
+        "@id": "https://www.vn3.org/terms"
+      },
+      "vr:political": {
+        "@id": "vr:Prohibited"
+      },
+      "vr:sexual": {
+        "@id": "vr:Permitted"
+      },
+      "vr:violent": {
+        "@id": "vr:Permitted"
+      }
+    },
+    {
+      "@id": "entity:3368697",
+      "rdfs:label": "Ciel - シエル -【オリジナル3Dモデル】",
+      "schema:license": {
+        "@id": "https://drive.google.com/file/d/1ndWFne5zwcvZyyMBS9rl6VWxqqJEblf6/view?usp=sharing"
+      },
+      "schema:name": "シエル",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/3368697"
+      }
+    },
+    {
+      "@id": "https://drive.google.com/file/d/1p6R_v_K_8LqmR-3wzoKHwhGfyqv1GVk5/view?usp=sharing",
+      "schema:isBasedOn": {
+        "@id": "https://www.vn3.org/terms"
+      },
+      "vr:political": {
+        "@id": "vr:Prohibited"
+      },
+      "vr:sexual": {
+        "@id": "vr:Permitted"
+      },
+      "vr:violent": {
+        "@id": "vr:Permitted"
+      }
+    },
+    {
+      "@id": "entity:2322146",
+      "rdfs:label": "【オリジナル3Dモデル】沙猫-さねこ-",
+      "schema:license": {
+        "@id": "https://drive.google.com/file/d/1rzFcYHyEfmLfmZIP2NarrbwosyCM0rTL/view?usp=sharing"
+      },
+      "schema:name": "沙猫",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/2322146"
+      }
+    },
+    {
+      "@id": "entity:3939858",
+      "rdfs:label": "【オリジナル3Dモデル】サフィー-Sapphy-",
+      "schema:license": {
+        "@id": "https://booth.pm/ja/items/3939858#license"
+      },
+      "schema:name": "サフィー",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/3939858"
+      }
+    },
+    {
+      "@id": "entity:3681787",
+      "rdfs:label": "オリジナル3Dモデル「桔梗」",
+      "schema:license": {
+        "@id": "https://drive.google.com/file/d/1Sskl4TJ4fN7_hc1MJBe0FzmqGTJBhkDX/view?usp=sharing"
+      },
+      "schema:name": "桔梗",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/3681787"
+      }
+    },
+    {
+      "@id": "https://booth.pm/ja/items/4592568#license",
+      "schema:isBasedOn": {
+        "@id": "https://www.vn3.org/terms"
+      },
+      "vr:political": {
+        "@id": "vr:Prohibited"
+      },
+      "vr:sexual": {
+        "@id": "vr:Permitted"
+      },
+      "vr:violent": {
+        "@id": "vr:Permitted"
+      }
+    },
+    {
+      "@id": "https://booth.pm/ja/items/1130532#license",
+      "vr:political": {
+        "@id": "vr:Prohibited"
+      },
+      "vr:sexual": {
+        "@id": "vr:Permitted"
+      },
+      "vr:violent": {
+        "@id": "vr:Permitted"
+      }
+    },
+    {
+      "@id": "entity:2215270",
+      "rdfs:label": "薄荷 オリジナル3Dモデル #Hakka3D",
+      "schema:license": {
+        "@id": "https://avatar.mio3io.com/license/ja.pdf"
+      },
+      "schema:name": "薄荷",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/2215270"
+      }
+    },
+    {
+      "@id": "https://creativecommons.org/public-domain/cc0/",
+      "vr:political": {
+        "@id": "vr:Permitted"
+      },
+      "vr:sexual": {
+        "@id": "vr:Permitted"
+      },
+      "vr:violent": {
+        "@id": "vr:Permitted"
+      }
+    },
+    {
+      "@id": "entity:4040235",
+      "rdfs:label": "オリジナル3Dモデル「シェーナ」",
+      "schema:license": {
+        "@id": "https://drive.google.com/file/d/1zRK2y2yZ3lYGnCI44JVm7tamOjHj1rUK/view?usp=sharing"
+      },
+      "schema:name": "シェーナ",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/4040235"
+      }
+    },
+    {
+      "@id": "entity:4035411",
+      "rdfs:label": "オリジナル3Dモデル「セレスティア」ver1.02",
+      "schema:license": {
+        "@id": "https://drive.google.com/file/d/1YI2J3eIl6HaaDhrw6MP5742rKh_L7e7j/view?usp=sharing"
+      },
+      "schema:name": "セレスティア",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/4035411"
+      }
+    },
+    {
+      "@id": "entity:3016885",
+      "rdfs:label": "透羽 オリジナル3Dモデル #Sue3D",
+      "schema:license": {
+        "@id": "https://avatar.mio3io.com/license/ja.pdf"
+      },
+      "schema:name": "透羽",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/3016885"
+      }
+    },
+    {
+      "@id": "entity:4906631",
+      "rdfs:label": "【デルタフレア】オリジナル3Dモデル",
+      "schema:license": {
+        "@id": "https://booth.pm/ja/items/4906631#lincese"
+      },
+      "schema:name": "デルタフレア",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/4906631"
+      }
+    },
+    {
+      "@id": "entity:4707634",
+      "rdfs:label": "森羅 オリジナル3Dモデル #Shinra3D",
+      "schema:license": {
+        "@id": "https://avatar.mio3io.com/license/ja.pdf"
+      },
+      "schema:name": "森羅",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/4707634"
+      }
+    },
+    {
+      "@id": "entity:3828632",
+      "rdfs:label": "オリジナル3Dモデル　びしょぬれのしずくさん",
+      "schema:license": {
+        "@id": "https://drive.google.com/file/d/1iy4dgaT7AK1qtCNNpjp2RR_lDJyCIqho/view?usp=sharing"
+      },
+      "schema:name": "びしょぬれのしずくさん",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/3828632"
+      }
+    },
+    {
+      "@id": "https://drive.google.com/file/d/1M2Q4S9xJyAOD3hcMmB-M6hQ1wEMVWxlG/view?usp=sharing",
+      "schema:isBasedOn": {
+        "@id": "https://www.vn3.org/terms"
+      },
+      "vr:political": {
+        "@id": "vr:Prohibited"
+      },
+      "vr:sexual": {
+        "@id": "vr:Permitted"
+      },
+      "vr:violent": {
+        "@id": "vr:Permitted"
+      }
+    },
+    {
+      "@id": "https://drive.google.com/file/d/1Wo11Fjw1E2oxslv8hexHb7VFULpfeIqx/view?usp=sharing",
+      "schema:isBasedOn": {
+        "@id": "https://www.vn3.org/terms"
+      },
+      "vr:political": {
+        "@id": "vr:Prohibited"
+      },
+      "vr:sexual": {
+        "@id": "vr:Permitted"
+      },
+      "vr:violent": {
+        "@id": "vr:Permitted"
+      }
+    },
+    {
+      "@id": "entity:3470989",
+      "rdfs:label": "『カリン』-Karin-【オリジナル3Dモデル】",
+      "schema:license": {
+        "@id": "https://drive.google.com/file/d/14c0X2qmzlG2tz9xXFgCkVGBEVSdmPMIS/view?usp=sharing"
+      },
+      "schema:name": "カリン",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/3470989"
+      }
+    },
+    {
+      "@id": "entity:3203894",
+      "rdfs:label": "杏里 オリジナル3Dモデル #Anri3D",
+      "schema:license": {
+        "@id": "https://avatar.mio3io.com/license/ja.pdf"
+      },
+      "schema:name": "杏里",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/3203894"
+      }
+    },
+    {
+      "@id": "entity:1777704",
+      "rdfs:label": "【3Dモデル】『アルディナ ver.1.13』",
+      "schema:license": {
+        "@id": "https://booth.pm/ja/items/1777704#license"
+      },
+      "schema:name": "アルディナ",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/1777704"
+      }
+    },
+    {
+      "@id": "https://drive.google.com/file/d/1KKk3fotTlwdAckCbls4mqeWZaWLWTUFx/view?usp=sharing",
+      "schema:isBasedOn": {
+        "@id": "https://www.vn3.org/terms"
+      },
+      "vr:political": {
+        "@id": "vr:Prohibited"
+      },
+      "vr:sexual": {
+        "@id": "vr:Permitted"
+      },
+      "vr:violent": {
+        "@id": "vr:Permitted"
+      }
+    },
+    {
+      "@id": "entity:2953001",
+      "rdfs:label": "【オリジナル3Dモデル】セフィラ（Sephira）◆アッシュ共通素体",
+      "schema:license": {
+        "@id": "https://drive.google.com/file/d/14EWy4a1Jwog5NlutPdXau2JidrLI1ni4/view?usp=sharing"
+      },
+      "schema:name": "セフィラ",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/2953001"
+      }
+    },
+    {
+      "@id": "entity:4208278",
+      "rdfs:label": "ソラハ【オリジナル3Dモデル】",
+      "schema:license": {
+        "@id": "https://drive.google.com/file/d/1woSKR_AQZOyBP1uYXYuh2WeQk_1KHIUu/view?usp=sharing"
+      },
+      "schema:name": "ソラハ",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/4208278"
+      }
+    },
+    {
+      "@id": "entity:2621226",
+      "rdfs:label": "オリジナル3Dモデル「ハムちゃん/Hamster」",
+      "schema:license": {
+        "@id": "https://creativecommons.org/public-domain/cc0/"
+      },
+      "schema:name": "ハムちゃん",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/2621226"
+      }
+    },
+    {
+      "@id": "entity:3480756",
+      "rdfs:label": "Original 3D model【華夜 -Kaya-】",
+      "schema:license": {
+        "@id": "https://booth.pm/ja/items/3480756#license"
+      },
+      "schema:name": "華夜",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/3480756"
+      }
+    },
+    {
+      "@id": "entity:2174830",
+      "rdfs:label": "オリジナル３Dモデル『アル-Alu-』Ver2.06",
+      "schema:license": {
+        "@id": "https://watarino.fanbox.cc/posts/1110136"
+      },
+      "schema:name": "アル",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/2174830"
+      }
+    },
+    {
+      "@id": "entity:2630437",
+      "rdfs:label": "オリジナル3Dモデル「イヨ」ver1.08",
+      "schema:license": {
+        "@id": "https://drive.google.com/file/d/1YI2J3eIl6HaaDhrw6MP5742rKh_L7e7j/view?usp=sharing"
+      },
+      "schema:name": "イヨ",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/2630437"
+      }
+    },
+    {
+      "@id": "https://booth.pm/ja/items/1484117#license",
+      "vr:political": {
+        "@id": "vr:Prohibited"
+      },
+      "vr:sexual": {
+        "@id": "vr:Permitted"
+      },
+      "vr:violent": {
+        "@id": "vr:Permitted"
+      }
+    },
+    {
+      "@id": "vr:Prohibited",
+      "rdfs:label": "不許可"
+    },
+    {
+      "@id": "entity:3659436",
+      "rdfs:label": "【オリジナル3Dモデル】リーファ",
+      "schema:license": {
+        "@id": "https://drive.google.com/file/d/1rzFcYHyEfmLfmZIP2NarrbwosyCM0rTL/view?usp=sharing"
+      },
+      "schema:name": "リーファ",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/3659436"
+      }
+    },
+    {
+      "@id": "https://drive.google.com/file/d/1Dg1-KB5h5Q08OynojfjBPOnrQ5cevNjx/view?usp=sharing",
+      "schema:isBasedOn": {
+        "@id": "https://www.vn3.org/terms"
+      },
+      "vr:political": {
+        "@id": "vr:Prohibited"
+      },
+      "vr:sexual": {
+        "@id": "vr:Permitted"
+      },
+      "vr:violent": {
+        "@id": "vr:Permitted"
+      }
+    },
+    {
+      "@id": "entity:2736146",
+      "rdfs:label": "QuQuオリジナルアバター “U”",
+      "schema:license": {
+        "@id": "https://booth.pm/ja/items/2736146#license"
+      },
+      "schema:name": "U",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/2736146"
+      }
+    },
+    {
+      "@id": "https://booth.pm/ja/items/4118550#license",
+      "vr:political": {
+        "@id": "vr:Prohibited"
+      },
+      "vr:sexual": {
+        "@id": "vr:Permitted"
+      },
+      "vr:violent": {
+        "@id": "vr:Permitted"
+      }
+    },
+    {
+      "@id": "https://booth.pm/ja/items/2198694#license",
+      "vr:political": {
+        "@id": "vr:Prohibited"
+      },
+      "vr:sexual": {
+        "@id": "vr:Prohibited"
+      },
+      "vr:violent": {
+        "@id": "vr:Prohibited"
+      }
+    },
+    {
+      "@id": "entity:4063740",
+      "rdfs:label": "【オリジナル3Dモデル】ルーナリット",
+      "schema:license": {
+        "@id": "https://drive.google.com/file/d/1rzFcYHyEfmLfmZIP2NarrbwosyCM0rTL/view?usp=sharing"
+      },
+      "schema:name": "ルーナリット",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/4063740"
+      }
+    },
+    {
+      "@id": "entity:3820124",
+      "rdfs:label": "オリジナル3Dモデル「モフィラ・Mophira」",
+      "schema:license": {
+        "@id": "https://drive.google.com/file/d/1nhNG_1Ud1lZbcJlrikCMZ9MOWSTHW0Qy/view?usp=sharing"
+      },
+      "schema:name": "モフィラ",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/3820124"
+      }
+    },
+    {
+      "@id": "entity:3458154",
+      "rdfs:label": "【VRChat向け3Dモデル】双迦 -ソカ(SOKA)",
+      "schema:license": {
+        "@id": "https://drive.google.com/file/d/1kccDhpbRYQ9-FZiOjL7NHQYFvp2c8ip0/view?usp=sharing"
+      },
+      "schema:name": "双迦",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/3458154"
+      }
+    },
+    {
+      "@id": "https://drive.google.com/file/d/1LYKfZkYGoX-RSIVP3UqccbaMJ6SXaOUk/view?wusp=sharing",
+      "schema:isBasedOn": {
+        "@id": "https://www.vn3.org/terms"
+      },
+      "vr:political": {
+        "@id": "vr:Prohibited"
+      },
+      "vr:sexual": {
+        "@id": "vr:Permitted"
+      },
+      "vr:violent": {
+        "@id": "vr:Permitted"
+      }
+    },
+    {
+      "@id": "entity:2616595",
+      "rdfs:label": "オリジナル3Dモデル「狐薄 -こはく-」#Kohaku3D",
+      "schema:license": {
+        "@id": "https://drive.google.com/file/d/1kyxz4TX597x6P3mt8F9C7kLzyQrTFF-e/view?usp=sharing"
+      },
+      "schema:name": "狐薄",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/2616595"
+      }
+    },
+    {
+      "@id": "entity:1826902",
+      "rdfs:label": "【オリジナル3Dモデル】京狐",
+      "schema:license": {
+        "@id": "https://drive.google.com/file/d/1rzFcYHyEfmLfmZIP2NarrbwosyCM0rTL/vie?wusp=sharing"
+      },
+      "schema:name": "京狐",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/1826902"
+      }
+    },
+    {
+      "@id": "https://drive.google.com/file/d/186HJrbn2ek1IZllYfyYF7DEXhIMsQ3ON/view?usp=sharing",
+      "schema:isBasedOn": {
+        "@id": "https://www.vn3.org/terms"
+      },
+      "vr:political": {
+        "@id": "vr:Prohibited"
+      },
+      "vr:sexual": {
+        "@id": "vr:Permitted"
+      },
+      "vr:violent": {
+        "@id": "vr:Permitted"
+      }
+    },
+    {
+      "@id": "https://drive.google.com/file/d/1GcfQ0N3Nseg74gqsdjtv4Z7W2OXeUYuf/view?usp=sharing",
+      "schema:isBasedOn": {
+        "@id": "https://www.vn3.org/terms"
+      },
+      "vr:political": {
+        "@id": "vr:Prohibited"
+      },
+      "vr:sexual": {
+        "@id": "vr:Permitted"
+      },
+      "vr:violent": {
+        "@id": "vr:Permitted"
+      }
+    },
+    {
+      "@id": "https://watarino.fanbox.cc/posts/1110136",
+      "vr:political": {
+        "@id": "vr:Prohibited"
+      },
+      "vr:sexual": {
+        "@id": "vr:Permitted"
+      },
+      "vr:violent": {
+        "@id": "vr:Permitted"
+      }
+    },
+    {
+      "@id": "vr:ProhibitedExceptForPrivateUse",
+      "rdfs:label": "私的利用を除き不許可"
+    },
+    {
+      "@id": "https://drive.google.com/file/d/1kyxz4TX597x6P3mt8F9C7kLzyQrTFF-e/view?usp=sharing",
+      "schema:isBasedOn": {
+        "@id": "https://www.vn3.org/terms"
+      },
+      "vr:political": {
+        "@id": "vr:Prohibited"
+      },
+      "vr:sexual": {
+        "@id": "vr:Permitted"
+      },
+      "vr:violent": {
+        "@id": "vr:Permitted"
+      }
+    },
+    {
+      "@id": "https://drive.google.com/file/d/1toySAGxVxKPS_zypaDI08FErXfBe9mMe/view?usp=sharing",
+      "schema:isBasedOn": {
+        "@id": "https://www.vn3.org/terms"
+      },
+      "vr:political": {
+        "@id": "vr:Prohibited"
+      },
+      "vr:sexual": {
+        "@id": "vr:Permitted"
+      },
+      "vr:violent": {
+        "@id": "vr:Permitted"
+      }
+    },
+    {
+      "@id": "https://mochiyama.page.link/license_jp",
+      "schema:isBasedOn": {
+        "@id": "https://www.vn3.org/terms"
+      },
+      "vr:political": {
+        "@id": "vr:Prohibited"
+      },
+      "vr:sexual": {
+        "@id": "vr:Prohibited"
+      },
+      "vr:violent": {
+        "@id": "vr:Prohibited"
+      }
+    },
+    {
+      "@id": "vr:sexual",
+      "@type": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property",
+      "rdfs:label": "性的表現への利用"
+    },
+    {
+      "@id": "entity:2693309",
+      "rdfs:label": "みなほし minahoshi  / オリジナル3Dモデル",
+      "schema:license": {
+        "@id": "https://mochiyama.page.link/license_jp"
+      },
+      "schema:name": "みなほし",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/2693309"
+      }
+    },
+    {
+      "@id": "entity:5351494",
+      "rdfs:label": "【VRChat 】オリジナル3Dアバター 凪夜 瑠璃 / Nagiya Ruri",
+      "schema:license": {
+        "@id": "https://tinyurl.com/yq7zmaxe"
+      },
+      "schema:name": "凪夜瑠璃",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/5351494"
+      }
+    },
+    {
+      "@id": "entity:4340548",
+      "rdfs:label": "まめひなた mamehinata / オリジナル3Dモデル",
+      "schema:license": {
+        "@id": "https://mochiyama.page.link/license_jp"
+      },
+      "schema:name": "まめひなた",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/4340548"
+      }
+    },
+    {
+      "@id": "entity:954376",
+      "rdfs:label": "オリジナル3Dモデル『キッシュ』",
+      "schema:license": {
+        "@id": "https://booth.pm/ja/items/954376#license"
+      },
+      "schema:name": "キッシュ",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/954376"
+      }
+    },
+    {
+      "@id": "https://drive.google.com/file/d/1br_XYfFhnWNWErdIo-dansX3rXnmX_C2/view?usp=sharing",
+      "schema:isBasedOn": {
+        "@id": "https://www.vn3.org/terms"
+      },
+      "vr:political": {
+        "@id": "vr:Prohibited"
+      },
+      "vr:sexual": {
+        "@id": "vr:Permitted"
+      },
+      "vr:violent": {
+        "@id": "vr:Permitted"
+      }
+    },
+    {
+      "@id": "entity:3878174",
+      "rdfs:label": "original 3D model 「ましゅ -mashu-」",
+      "schema:license": {
+        "@id": "https://drive.google.com/file/d/1M2Q4S9xJyAOD3hcMmB-M6hQ1wEMVWxlG/view?usp=sharing"
+      },
+      "schema:name": "ましゅ",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/3878174"
+      }
+    },
+    {
+      "@id": "https://drive.google.com/file/d/17Okh-c2rI5S_K-SFu8ANDyLuRApiGBfR/view?usp=sharing",
+      "schema:isBasedOn": {
+        "@id": "https://www.vn3.org/terms"
+      },
+      "vr:political": {
+        "@id": "vr:Prohibited"
+      },
+      "vr:sexual": {
+        "@id": "vr:Permitted"
+      },
+      "vr:violent": {
+        "@id": "vr:ProhibitedExceptForPrivateUse"
+      }
+    },
+    {
+      "@id": "https://booth.pm/ja/items/4667400#license",
+      "vr:political": {
+        "@id": "vr:Prohibited"
+      },
+      "vr:sexual": {
+        "@id": "vr:Permitted"
+      },
+      "vr:violent": {
+        "@id": "vr:Permitted"
+      }
+    },
+    {
+      "@id": "https://avatar.mio3io.com/license/ja.pdf",
+      "schema:isBasedOn": {
+        "@id": "https://www.vn3.org/terms"
+      },
+      "vr:political": {
+        "@id": "vr:Prohibited"
+      },
+      "vr:sexual": {
+        "@id": "vr:ProhibitedExceptForPrivateUse"
+      },
+      "vr:violent": {
+        "@id": "vr:ProhibitedExceptForPrivateUse"
+      }
+    },
+    {
+      "@id": "https://tinyurl.com/yq7zmaxe",
+      "schema:isBasedOn": {
+        "@id": "https://www.vn3.org/terms"
+      },
+      "vr:political": {
+        "@id": "vr:Prohibited"
+      },
+      "vr:sexual": {
+        "@id": "vr:Prohibited"
+      },
+      "vr:violent": {
+        "@id": "vr:Prohibited"
+      }
+    },
+    {
+      "@id": "entity:4052120",
+      "rdfs:label": "#Emmelie3D",
+      "schema:license": {
+        "@id": "https://drive.google.com/file/d/1K8AcjlYHFfJ4cFcJvBvvwei79qwlbqFx/view?usp=sharing"
+      },
+      "schema:name": "Emmelie",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/4052120"
+      }
+    },
+    {
+      "@id": "entity:1202638",
+      "rdfs:label": "【オリジナル3Dモデル】スノウエルフのお嬢様",
+      "schema:license": {
+        "@id": "https://booth.pm/ja/items/1202638#license"
+      },
+      "schema:name": "スノウエルフのお嬢様",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/1202638"
+      }
+    },
+    {
+      "@id": "https://drive.google.com/file/d/14EWy4a1Jwog5NlutPdXau2JidrLI1ni4/view?usp=sharing",
+      "schema:isBasedOn": {
+        "@id": "https://www.vn3.org/terms"
+      },
+      "vr:political": {
+        "@id": "vr:Prohibited"
+      },
+      "vr:sexual": {
+        "@id": "vr:Permitted"
+      },
+      "vr:violent": {
+        "@id": "vr:Permitted"
+      }
+    },
+    {
+      "@id": "vr:Permitted",
+      "rdfs:label": "許可"
+    },
+    {
+      "@id": "entity:4592568",
+      "rdfs:label": "オリジナルモデル「フィオナ(Fiona)」",
+      "schema:license": {
+        "@id": "https://booth.pm/ja/items/4592568#license"
+      },
+      "schema:name": "フィオナ",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/4592568"
+      }
+    },
+    {
+      "@id": "https://drive.google.com/file/d/1KWp4sRd0oNPTrdEOOhtneT4wMcmMdj3Z/view?usp=sharing",
+      "schema:isBasedOn": {
+        "@id": "https://www.vn3.org/terms"
+      },
+      "vr:sexual": {
+        "@id": "vr:Permitted"
+      },
+      "vr:violent": {
+        "@id": "vr:Permitted"
+      }
+    },
+    {
+      "@id": "https://drive.google.com/file/d/1Qv0jqcX2ng5ZsmJLOYtgTYrgZETBuaIQ/view?usp=sharing",
+      "schema:isBasedOn": {
+        "@id": "https://www.vn3.org/terms"
+      },
+      "vr:political": {
+        "@id": "vr:Prohibited"
+      },
+      "vr:sexual": {
+        "@id": "vr:Permitted"
+      },
+      "vr:violent": {
+        "@id": "vr:Permitted"
+      }
+    },
+    {
+      "@id": "entity:2198694",
+      "rdfs:label": "【オリジナル3Dモデル】ユキちゃん PB対応",
+      "schema:license": {
+        "@id": "https://booth.pm/ja/items/2198694#license"
+      },
+      "schema:name": "ユキちゃん",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/2198694"
+      }
+    },
+    {
+      "@id": "https://uv-license.com/ja/license?utf8=%E2%9C%93&pcu=true&ccu=true&ddw=true&dmd=true&seu=true&veu=true&remarks=true",
+      "vr:political": {
+        "@id": "vr:Prohibited"
+      },
+      "vr:sexual": {
+        "@id": "vr:Permitted"
+      },
+      "vr:violent": {
+        "@id": "vr:Permitted"
+      }
+    },
+    {
+      "@id": "entity:4023598",
+      "rdfs:label": "【オリジナル3Dモデル】Nayu - ナユ",
+      "schema:license": {
+        "@id": "https://drive.google.com/file/d/1S5Tfj_d8d0klTBier_b19JlwEvSLsxkG/view"
+      },
+      "schema:name": "Nayu",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/4023598"
+      }
+    },
+    {
+      "@id": "entity:3226395",
+      "rdfs:label": "3Dモデル「止丸式初音ミクNT」",
+      "schema:license": {
+        "@id": "https://booth.pm/ja/items/3226395#license"
+      },
+      "schema:name": "止丸式初音ミクNT",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/3226395"
+      }
+    },
+    {
+      "@id": "https://drive.google.com/file/d/1qLjryvvwFsshxJnfnTejAL8GHIhbLVv1/view?usp=sharing",
+      "schema:isBasedOn": {
+        "@id": "https://www.vn3.org/terms"
+      },
+      "vr:political": {
+        "@id": "vr:Prohibited"
+      },
+      "vr:sexual": {
+        "@id": "vr:Permitted"
+      },
+      "vr:violent": {
+        "@id": "vr:Permitted"
+      }
+    },
+    {
+      "@id": "https://booth.pm/ja/items/3923094#license",
+      "vr:political": {
+        "@id": "vr:Prohibited"
+      },
+      "vr:sexual": {
+        "@id": "vr:Permitted"
+      },
+      "vr:violent": {
+        "@id": "vr:Prohibited"
+      }
+    },
+    {
+      "@id": "https://booth.pm/ja/items/3390957#llicense",
+      "vr:political": {
+        "@id": "vr:Prohibited"
+      },
+      "vr:sexual": {
+        "@id": "vr:Permitted"
+      },
+      "vr:violent": {
+        "@id": "vr:Permitted"
+      }
+    },
+    {
+      "@id": "entity:3190100",
+      "rdfs:label": "Grus",
+      "schema:license": {
+        "@id": "https://booth.pm/ja/items/3190100#license"
+      },
+      "schema:name": "Grus",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/3190100"
+      }
+    },
+    {
+      "@id": "https://booth.pm/ja/items/4127062#license",
+      "vr:political": {
+        "@id": "vr:Prohibited"
+      },
+      "vr:sexual": {
+        "@id": "vr:Prohibited"
+      },
+      "vr:violent": {
+        "@id": "vr:Prohibited"
+      }
+    },
+    {
+      "@id": "entity:2559783",
+      "rdfs:label": "『ラスク』-Rusk-【Quest/PC対応 オリジナル3Dモデル】",
+      "schema:license": {
+        "@id": "https://drive.google.com/file/d/14c0X2qmzlG2tz9xXFgCkVGBEVSdmPMIS/view?usp=sharing"
+      },
+      "schema:name": "ラスク",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/2559783"
+      }
+    },
+    {
+      "@id": "https://booth.pm/ja/items/3190100#license",
+      "vr:political": {
+        "@id": "vr:Prohibited"
+      },
+      "vr:violent": {
+        "@id": "vr:Prohibited"
+      }
+    },
+    {
+      "@id": "vr:violent",
+      "@type": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property",
+      "rdfs:label": "暴力的表現への利用"
+    },
+    {
+      "@id": "entity:5007531",
+      "rdfs:label": "真冬 Mafuyu / オリジナル3Dモデル ",
+      "schema:license": {
+        "@id": "https://drive.google.com/file/d/1KWp4sRd0oNPTrdEOOhtneT4wMcmMdj3Z/view?usp=sharing"
+      },
+      "schema:name": "真冬",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/5007531"
+      }
+    },
+    {
+      "@id": "https://drive.google.com/file/d/1T1zjIU-5wb_5eSpb2RsmTNSbw5wtu9zy/view?usp=sharing",
+      "schema:isBasedOn": {
+        "@id": "https://www.vn3.org/terms"
+      },
+      "vr:political": {
+        "@id": "vr:Prohibited"
+      },
+      "vr:sexual": {
+        "@id": "vr:Permitted"
+      },
+      "vr:violent": {
+        "@id": "vr:Permitted"
+      }
+    },
+    {
+      "@id": "entity:5058077",
+      "rdfs:label": "オリジナル3Dモデル「マヌカ」ver1.02",
+      "schema:license": {
+        "@id": "https://drive.google.com/file/d/1YI2J3eIl6HaaDhrw6MP5742rKh_L7e7j/view?usp=sharing"
+      },
+      "schema:name": "マヌカ",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/5058077"
+      }
+    },
+    {
+      "@id": "entity:5260363",
+      "rdfs:label": "【オリジナル3Dモデル】狛乃-Komano-",
+      "schema:license": {
+        "@id": "https://drive.google.com/file/d/1rzFcYHyEfmLfmZIP2NarrbwosyCM0rTL/view?usp=sharing"
+      },
+      "schema:name": "狛乃",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/5260363"
+      }
+    },
+    {
+      "@id": "entity:3950859",
+      "rdfs:label": "【オリジナル3Dモデル】Platinum - プラチナ",
+      "schema:license": {
+        "@id": "https://drive.google.com/file/d/14uQd-rLtkw3qz1AmL7MvC95dsh4vjQtO/view?usp=sharing"
+      },
+      "schema:name": "プラチナ",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/3950859"
+      }
+    },
+    {
+      "@id": "entity:1255054",
+      "rdfs:label": "オリジナル3Dモデル『Lua』ver3.0",
+      "schema:license": {
+        "@id": "https://drive.google.com/file/d/1zRK2y2yZ3lYGnCI44JVm7tamOjHj1rUK/view?usp=sharing"
+      },
+      "schema:name": "Lua",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/1255054"
+      }
+    },
+    {
+      "@id": "https://drive.google.com/file/d/14uQd-rLtkw3qz1AmL7MvC95dsh4vjQtO/view?usp=sharing",
+      "schema:isBasedOn": {
+        "@id": "https://www.vn3.org/terms"
+      },
+      "vr:sexual": {
+        "@id": "vr:Permitted"
+      },
+      "vr:violent": {
+        "@id": "vr:Permitted"
+      }
+    },
+    {
+      "@id": "entity:3923094",
+      "rdfs:label": "【オリジナル３Dモデル】龍のヨルちゃん",
+      "schema:license": {
+        "@id": "https://booth.pm/ja/items/3923094#license"
+      },
+      "schema:name": "龍のヨルちゃん",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/3923094"
+      }
+    },
+    {
+      "@id": "https://drive.google.com/file/d/1NUv_9ILSSO1TAogmiM6lPO96azcIiLZl/view?usp=sharing",
+      "schema:isBasedOn": {
+        "@id": "https://www.vn3.org/terms"
+      },
+      "vr:political": {
+        "@id": "vr:Prohibited"
+      },
+      "vr:sexual": {
+        "@id": "vr:Permitted"
+      },
+      "vr:violent": {
+        "@id": "vr:Permitted"
+      }
+    },
+    {
+      "@id": "entity:2097499",
+      "rdfs:label": "VRChat向け3Dモデル『レナ・カクテル-Lena Cocktail-』Ver1.14",
+      "schema:license": {
+        "@id": "https://drive.google.com/file/d/19yBgFkZL7EXhJiwh31LcKJ9XzsfXcoFD/view?usp=sharing"
+      },
+      "schema:name": "レナ・カクテル",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/2097499"
+      }
+    },
+    {
+      "@id": "entity:3188683",
+      "rdfs:label": "【オリジナル3Dモデル】 イリオ1.0 ワイルドキャットコーデ #サバンナストリート",
+      "schema:license": {
+        "@id": "https://avatar.kotobukiya.co.jp/agreement/savannastreet/"
+      },
+      "schema:name": "イリオ",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/3188683"
+      }
+    },
+    {
+      "@id": "https://drive.google.com/file/d/1Sc5PzcyTPZZD4ZQIxXRQkwXjh7gzDMRn/view?usp=sharing",
+      "schema:isBasedOn": {
+        "@id": "https://www.vn3.org/terms"
+      },
+      "vr:political": {
+        "@id": "vr:Prohibited"
+      },
+      "vr:sexual": {
+        "@id": "vr:Permitted"
+      },
+      "vr:violent": {
+        "@id": "vr:Permitted"
+      }
+    },
+    {
+      "@id": "https://drive.google.com/file/d/14c0X2qmzlG2tz9xXFgCkVGBEVSdmPMIS/view?usp=sharing",
+      "schema:isBasedOn": {
+        "@id": "https://www.vn3.org/terms"
+      },
+      "vr:political": {
+        "@id": "vr:Prohibited"
+      },
+      "vr:sexual": {
+        "@id": "vr:Permitted"
+      },
+      "vr:violent": {
+        "@id": "vr:Permitted"
+      }
+    },
+    {
+      "@id": "entity:4127062",
+      "rdfs:label": "「公式」アズールレーン天城ちゃん3Dモデル（VRchat対応）",
+      "schema:license": {
+        "@id": "https://booth.pm/ja/items/4127062#license"
+      },
+      "schema:name": "天城",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/4127062"
+      }
+    },
+    {
+      "@id": "entity:4876459",
+      "rdfs:label": "【オリジナル3Dモデル】Lasyusha〈ラシューシャ〉",
+      "schema:license": {
+        "@id": "https://drive.google.com/file/d/1ZuUI_L2yIj1-i5VvtJ0Jm90gi1ETnd3g/view?usp=sharing"
+      },
+      "schema:name": "ライム",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/4876459"
+      }
+    },
+    {
+      "@id": "entity:4013951",
+      "rdfs:label": "水瀬 オリジナル3Dモデル #Minase3D",
+      "schema:license": {
+        "@id": "https://avatar.mio3io.com/license/ja.pdf"
+      },
+      "schema:name": "水瀬",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/4013951"
+      }
+    },
+    {
+      "@id": "https://booth.pm/ja/items/2554585#license",
+      "vr:political": {
+        "@id": "vr:Prohibited"
+      },
+      "vr:sexual": {
+        "@id": "vr:Permitted"
+      },
+      "vr:violent": {
+        "@id": "vr:Permitted"
+      }
+    },
+    {
+      "@id": "entity:2146588",
+      "rdfs:label": "リア-アリス(RearAlice)【オリジナル3Dモデル】",
+      "schema:license": {
+        "@id": "https://drive.google.com/file/d/1TRsPgWRtGDUjenGR6eMLqRy3Bvll6J0u/view?usp=sharing"
+      },
+      "schema:name": "リア-アリス",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/2146588"
+      }
+    },
+    {
+      "@id": "entity:2780069",
+      "rdfs:label": "オリジナル3Ｄモデル「ここあ」Ver.1.03",
+      "schema:license": {
+        "@id": "https://booth.pm/ja/items/2780069#license"
+      },
+      "schema:name": "ここあ",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/2780069"
+      }
+    },
+    {
+      "@id": "https://booth.pm/ja/items/3939858#license",
+      "schema:isBasedOn": {
+        "@id": "https://www.vn3.org/terms"
+      },
+      "vr:political": {
+        "@id": "vr:Prohibited"
+      },
+      "vr:sexual": {
+        "@id": "vr:Permitted"
+      },
+      "vr:violent": {
+        "@id": "vr:Permitted"
+      }
+    },
+    {
+      "@id": "https://booth.pm/ja/items/5209634#license",
+      "vr:political": {
+        "@id": "vr:Prohibited"
+      },
+      "vr:sexual": {
+        "@id": "vr:Permitted"
+      },
+      "vr:violent": {
+        "@id": "vr:Permitted"
+      }
+    },
+    {
+      "@id": "https://drive.google.com/file/d/1woSKR_AQZOyBP1uYXYuh2WeQk_1KHIUu/view?usp=sharing",
+      "schema:isBasedOn": {
+        "@id": "https://www.vn3.org/terms"
+      },
+      "vr:political": {
+        "@id": "vr:Prohibited"
+      },
+      "vr:sexual": {
+        "@id": "vr:Permitted"
+      },
+      "vr:violent": {
+        "@id": "vr:Permitted"
+      }
+    },
+    {
+      "@id": "https://booth.pm/ja/items/3472207#license",
+      "vr:political": {
+        "@id": "vr:Prohibited"
+      },
+      "vr:sexual": {
+        "@id": "vr:Permitted"
+      }
+    },
+    {
+      "@id": "entity:2709610",
+      "rdfs:label": "【オリジナル3Dモデル】ウルフェリア",
+      "schema:license": {
+        "@id": "https://drive.google.com/file/d/1rzFcYHyEfmLfmZIP2NarrbwosyCM0rTL/view?usp=sharing"
+      },
+      "schema:name": "ウルフェリア",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/2709610"
+      }
+    },
+    {
+      "@id": "https://avatar.kotobukiya.co.jp/agreement/savannastreet/",
+      "vr:political": {
+        "@id": "vr:Prohibited"
+      }
+    },
+    {
+      "@id": "entity:2554585",
+      "rdfs:label": "オリジナル3Ｄモデル「狐雪」Ver.1.05",
+      "schema:license": {
+        "@id": "https://booth.pm/ja/items/2554585#license"
+      },
+      "schema:name": "狐雪",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/2554585"
+      }
+    },
+    {
+      "@id": "entity:5354471",
+      "rdfs:label": "『シフォン』-Chiffon-【オリジナル3Dモデル】",
+      "schema:license": {
+        "@id": "https://drive.google.com/file/d/16jHwf9QJaip0IWEaEqiGjXZmFa4MHbTB/view?usp=sharing"
+      },
+      "schema:name": "シフォン",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/5354471"
+      }
+    },
+    {
+      "@id": "https://drive.google.com/file/d/1tdIKuniVzvnvruY1VZywXaj35SDZpMPQ/view?usp=sharing",
+      "schema:isBasedOn": {
+        "@id": "https://www.vn3.org/terms"
+      },
+      "vr:political": {
+        "@id": "vr:Prohibited"
+      },
+      "vr:sexual": {
+        "@id": "vr:Permitted"
+      },
+      "vr:violent": {
+        "@id": "vr:Permitted"
+      }
+    },
+    {
+      "@id": "entity:4667400",
+      "rdfs:label": "オリジナル3Ｄモデル「萌」Ver.1.02.1",
+      "schema:license": {
+        "@id": "https://booth.pm/ja/items/4667400#license"
+      },
+      "schema:name": "萌",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/4667400"
+      }
+    },
+    {
+      "@id": "entity:3818504",
+      "rdfs:label": "【オリジナル3Dモデル】-ハオラン-HAOLAN",
+      "schema:license": {
+        "@id": "https://drive.google.com/file/d/1iBBssWJMqPg3IT3utIu_7mx9L7snEYSv/view?usp=sharing"
+      },
+      "schema:name": "ハオラン",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/3818504"
+      }
+    },
+    {
+      "@id": "entity:3040745",
+      "rdfs:label": "オリジナル3Dモデル「イメリス」ver1.05",
+      "schema:license": {
+        "@id": "https://drive.google.com/file/d/1YI2J3eIl6HaaDhrw6MP5742rKh_L7e7j/view?usp=sharing"
+      },
+      "schema:name": "イメリス",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/3040745"
+      }
+    },
+    {
+      "@id": "https://drive.google.com/file/d/1kccDhpbRYQ9-FZiOjL7NHQYFvp2c8ip0/view?usp=sharing",
+      "schema:isBasedOn": {
+        "@id": "https://www.vn3.org/terms"
+      },
+      "vr:political": {
+        "@id": "vr:Prohibited"
+      },
+      "vr:sexual": {
+        "@id": "vr:Prohibited"
+      },
+      "vr:violent": {
+        "@id": "vr:Prohibited"
+      }
+    },
+    {
+      "@id": "entity:3390957",
+      "rdfs:label": "オリジナル3Ｄモデル「舞夜」Ver.1.02.2",
+      "schema:license": {
+        "@id": "https://booth.pm/ja/items/3390957#llicense"
+      },
+      "schema:name": "舞夜",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/3390957"
+      }
+    },
+    {
+      "@id": "https://drive.google.com/file/d/1ndWFne5zwcvZyyMBS9rl6VWxqqJEblf6/view?usp=sharing",
+      "schema:isBasedOn": {
+        "@id": "https://www.vn3.org/terms"
+      },
+      "vr:political": {
+        "@id": "vr:Prohibited"
+      },
+      "vr:sexual": {
+        "@id": "vr:Permitted"
+      },
+      "vr:violent": {
+        "@id": "vr:Permitted"
+      }
+    }
+  ]
+}

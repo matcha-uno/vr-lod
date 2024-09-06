@@ -7,13 +7,29 @@
   },
   "@graph": [
     {
-      "@id": "vr:Prohibited",
-      "rdfs:label": "不許可"
-    },
-    {
       "@id": "vr:violent",
       "@type": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property",
       "rdfs:label": "暴力的表現への利用"
+    },
+    {
+      "@id": "https://avatar.kotobukiya.co.jp/agreement/savannastreet/",
+      "vr:political": {
+        "@id": "vr:Prohibited"
+      }
+    },
+    {
+      "@id": "vr:sexual",
+      "@type": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property",
+      "rdfs:label": "性的表現への利用"
+    },
+    {
+      "@id": "vr:political",
+      "@type": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property",
+      "rdfs:label": "政治活動への利用および、宗教活動への利用"
+    },
+    {
+      "@id": "vr:Prohibited",
+      "rdfs:label": "不許可"
     },
     {
       "@id": "entity:3188683",
@@ -24,22 +40,6 @@
       "schema:name": "イリオ",
       "schema:url": {
         "@id": "https://booth.pm/ja/items/3188683"
-      }
-    },
-    {
-      "@id": "vr:political",
-      "@type": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property",
-      "rdfs:label": "政治活動への利用および、宗教活動への利用"
-    },
-    {
-      "@id": "vr:sexual",
-      "@type": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property",
-      "rdfs:label": "性的表現への利用"
-    },
-    {
-      "@id": "https://avatar.kotobukiya.co.jp/agreement/savannastreet/",
-      "vr:political": {
-        "@id": "vr:Prohibited"
       }
     }
   ]

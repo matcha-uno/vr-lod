@@ -7,21 +7,6 @@
   },
   "@graph": [
     {
-      "@id": "entity:2559783",
-      "rdfs:label": "『ラスク』-Rusk-【Quest/PC対応 オリジナル3Dモデル】",
-      "schema:license": {
-        "@id": "https://drive.google.com/file/d/14c0X2qmzlG2tz9xXFgCkVGBEVSdmPMIS/view?usp=sharing"
-      },
-      "schema:name": "ラスク",
-      "schema:url": {
-        "@id": "https://booth.pm/ja/items/2559783"
-      }
-    },
-    {
-      "@id": "vr:Prohibited",
-      "rdfs:label": "不許可"
-    },
-    {
       "@id": "https://drive.google.com/file/d/14c0X2qmzlG2tz9xXFgCkVGBEVSdmPMIS/view?usp=sharing",
       "schema:isBasedOn": {
         "@id": "https://www.vn3.org/terms"
@@ -54,6 +39,21 @@
       "@id": "vr:sexual",
       "@type": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property",
       "rdfs:label": "性的表現への利用"
+    },
+    {
+      "@id": "entity:2559783",
+      "rdfs:label": "『ラスク』-Rusk-【Quest/PC対応 オリジナル3Dモデル】",
+      "schema:license": {
+        "@id": "https://drive.google.com/file/d/14c0X2qmzlG2tz9xXFgCkVGBEVSdmPMIS/view?usp=sharing"
+      },
+      "schema:name": "ラスク",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/2559783"
+      }
+    },
+    {
+      "@id": "vr:Prohibited",
+      "rdfs:label": "不許可"
     }
   ]
 }

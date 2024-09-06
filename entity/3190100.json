@@ -7,8 +7,13 @@
   },
   "@graph": [
     {
-      "@id": "vr:Prohibited",
-      "rdfs:label": "不許可"
+      "@id": "https://booth.pm/ja/items/3190100#license",
+      "vr:political": {
+        "@id": "vr:Prohibited"
+      },
+      "vr:violent": {
+        "@id": "vr:Prohibited"
+      }
     },
     {
       "@id": "vr:violent",
@@ -26,15 +31,6 @@
       "rdfs:label": "性的表現への利用"
     },
     {
-      "@id": "https://booth.pm/ja/items/3190100#license",
-      "vr:political": {
-        "@id": "vr:Prohibited"
-      },
-      "vr:violent": {
-        "@id": "vr:Prohibited"
-      }
-    },
-    {
       "@id": "entity:3190100",
       "rdfs:label": "Grus",
       "schema:license": {
@@ -44,6 +40,10 @@
       "schema:url": {
         "@id": "https://booth.pm/ja/items/3190100"
       }
+    },
+    {
+      "@id": "vr:Prohibited",
+      "rdfs:label": "不許可"
     }
   ]
 }

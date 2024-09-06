@@ -7,10 +7,6 @@
   },
   "@graph": [
     {
-      "@id": "vr:Prohibited",
-      "rdfs:label": "不許可"
-    },
-    {
       "@id": "https://drive.google.com/file/d/1Dg1-KB5h5Q08OynojfjBPOnrQ5cevNjx/view?usp=sharing",
       "schema:isBasedOn": {
         "@id": "https://www.vn3.org/terms"
@@ -31,8 +27,15 @@
       "rdfs:label": "暴力的表現への利用"
     },
     {
-      "@id": "vr:Permitted",
-      "rdfs:label": "許可"
+      "@id": "entity:4213786",
+      "rdfs:label": "【お買い得セット】　オリジナル3Dモデル「INABA」「椎名」「狐雨」 ",
+      "schema:license": {
+        "@id": "https://drive.google.com/file/d/1Dg1-KB5h5Q08OynojfjBPOnrQ5cevNjx/view?usp=sharing"
+      },
+      "schema:name": "椎名狐雨",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/4213786"
+      }
     },
     {
       "@id": "vr:political",
@@ -45,15 +48,12 @@
       "rdfs:label": "性的表現への利用"
     },
     {
-      "@id": "entity:4213786",
-      "rdfs:label": "【お買い得セット】　オリジナル3Dモデル「INABA」「椎名」「狐雨」 ",
-      "schema:license": {
-        "@id": "https://drive.google.com/file/d/1Dg1-KB5h5Q08OynojfjBPOnrQ5cevNjx/view?usp=sharing"
-      },
-      "schema:name": "椎名狐雨",
-      "schema:url": {
-        "@id": "https://booth.pm/ja/items/4213786"
-      }
+      "@id": "vr:Permitted",
+      "rdfs:label": "許可"
+    },
+    {
+      "@id": "vr:Prohibited",
+      "rdfs:label": "不許可"
     }
   ]
 }

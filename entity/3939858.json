@@ -7,17 +7,13 @@
   },
   "@graph": [
     {
-      "@id": "vr:Prohibited",
-      "rdfs:label": "不許可"
-    },
-    {
       "@id": "vr:violent",
       "@type": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property",
       "rdfs:label": "暴力的表現への利用"
     },
     {
-      "@id": "vr:Permitted",
-      "rdfs:label": "許可"
+      "@id": "vr:Prohibited",
+      "rdfs:label": "不許可"
     },
     {
       "@id": "vr:political",
@@ -30,15 +26,8 @@
       "rdfs:label": "性的表現への利用"
     },
     {
-      "@id": "entity:3939858",
-      "rdfs:label": "【オリジナル3Dモデル】サフィー-Sapphy-",
-      "schema:license": {
-        "@id": "https://booth.pm/ja/items/3939858#license"
-      },
-      "schema:name": "サフィー",
-      "schema:url": {
-        "@id": "https://booth.pm/ja/items/3939858"
-      }
+      "@id": "vr:Permitted",
+      "rdfs:label": "許可"
     },
     {
       "@id": "https://booth.pm/ja/items/3939858#license",
@@ -53,6 +42,17 @@
       },
       "vr:violent": {
         "@id": "vr:Permitted"
+      }
+    },
+    {
+      "@id": "entity:3939858",
+      "rdfs:label": "【オリジナル3Dモデル】サフィー-Sapphy-",
+      "schema:license": {
+        "@id": "https://booth.pm/ja/items/3939858#license"
+      },
+      "schema:name": "サフィー",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/3939858"
       }
     }
   ]

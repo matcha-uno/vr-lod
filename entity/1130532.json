@@ -7,10 +7,6 @@
   },
   "@graph": [
     {
-      "@id": "vr:Prohibited",
-      "rdfs:label": "不許可"
-    },
-    {
       "@id": "entity:1130532",
       "rdfs:label": "【オリジナル3Dモデル】メディカルセンタースタッフさん",
       "schema:license": {
@@ -27,8 +23,16 @@
       "rdfs:label": "暴力的表現への利用"
     },
     {
-      "@id": "vr:Permitted",
-      "rdfs:label": "許可"
+      "@id": "https://booth.pm/ja/items/1130532#license",
+      "vr:political": {
+        "@id": "vr:Prohibited"
+      },
+      "vr:sexual": {
+        "@id": "vr:Permitted"
+      },
+      "vr:violent": {
+        "@id": "vr:Permitted"
+      }
     },
     {
       "@id": "vr:political",
@@ -41,16 +45,12 @@
       "rdfs:label": "性的表現への利用"
     },
     {
-      "@id": "https://booth.pm/ja/items/1130532#license",
-      "vr:political": {
-        "@id": "vr:Prohibited"
-      },
-      "vr:sexual": {
-        "@id": "vr:Permitted"
-      },
-      "vr:violent": {
-        "@id": "vr:Permitted"
-      }
+      "@id": "vr:Permitted",
+      "rdfs:label": "許可"
+    },
+    {
+      "@id": "vr:Prohibited",
+      "rdfs:label": "不許可"
     }
   ]
 }

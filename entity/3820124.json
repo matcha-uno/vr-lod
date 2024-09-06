@@ -7,17 +7,9 @@
   },
   "@graph": [
     {
-      "@id": "vr:Prohibited",
-      "rdfs:label": "不許可"
-    },
-    {
       "@id": "vr:violent",
       "@type": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property",
       "rdfs:label": "暴力的表現への利用"
-    },
-    {
-      "@id": "vr:Permitted",
-      "rdfs:label": "許可"
     },
     {
       "@id": "vr:political",
@@ -25,15 +17,9 @@
       "rdfs:label": "政治活動への利用および、宗教活動への利用"
     },
     {
-      "@id": "entity:3820124",
-      "rdfs:label": "オリジナル3Dモデル「モフィラ・Mophira」",
-      "schema:license": {
-        "@id": "https://drive.google.com/file/d/1nhNG_1Ud1lZbcJlrikCMZ9MOWSTHW0Qy/view?usp=sharing"
-      },
-      "schema:name": "モフィラ",
-      "schema:url": {
-        "@id": "https://booth.pm/ja/items/3820124"
-      }
+      "@id": "vr:sexual",
+      "@type": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property",
+      "rdfs:label": "性的表現への利用"
     },
     {
       "@id": "https://drive.google.com/file/d/1nhNG_1Ud1lZbcJlrikCMZ9MOWSTHW0Qy/view?usp=sharing",
@@ -51,9 +37,23 @@
       }
     },
     {
-      "@id": "vr:sexual",
-      "@type": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property",
-      "rdfs:label": "性的表現への利用"
+      "@id": "vr:Permitted",
+      "rdfs:label": "許可"
+    },
+    {
+      "@id": "vr:Prohibited",
+      "rdfs:label": "不許可"
+    },
+    {
+      "@id": "entity:3820124",
+      "rdfs:label": "オリジナル3Dモデル「モフィラ・Mophira」",
+      "schema:license": {
+        "@id": "https://drive.google.com/file/d/1nhNG_1Ud1lZbcJlrikCMZ9MOWSTHW0Qy/view?usp=sharing"
+      },
+      "schema:name": "モフィラ",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/3820124"
+      }
     }
   ]
 }

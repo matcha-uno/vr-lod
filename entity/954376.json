@@ -7,6 +7,36 @@
   },
   "@graph": [
     {
+      "@id": "vr:violent",
+      "@type": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property",
+      "rdfs:label": "暴力的表現への利用"
+    },
+    {
+      "@id": "vr:sexual",
+      "@type": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property",
+      "rdfs:label": "性的表現への利用"
+    },
+    {
+      "@id": "vr:political",
+      "@type": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property",
+      "rdfs:label": "政治活動への利用および、宗教活動への利用"
+    },
+    {
+      "@id": "entity:954376",
+      "rdfs:label": "オリジナル3Dモデル『キッシュ』",
+      "schema:license": {
+        "@id": "https://booth.pm/ja/items/954376#license"
+      },
+      "schema:name": "キッシュ",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/954376"
+      }
+    },
+    {
+      "@id": "vr:Permitted",
+      "rdfs:label": "許可"
+    },
+    {
       "@id": "https://booth.pm/ja/items/954376#license",
       "vr:political": {
         "@id": "vr:Prohibited"
@@ -21,36 +51,6 @@
     {
       "@id": "vr:Prohibited",
       "rdfs:label": "不許可"
-    },
-    {
-      "@id": "entity:954376",
-      "rdfs:label": "オリジナル3Dモデル『キッシュ』",
-      "schema:license": {
-        "@id": "https://booth.pm/ja/items/954376#license"
-      },
-      "schema:name": "キッシュ",
-      "schema:url": {
-        "@id": "https://booth.pm/ja/items/954376"
-      }
-    },
-    {
-      "@id": "vr:violent",
-      "@type": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property",
-      "rdfs:label": "暴力的表現への利用"
-    },
-    {
-      "@id": "vr:Permitted",
-      "rdfs:label": "許可"
-    },
-    {
-      "@id": "vr:political",
-      "@type": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property",
-      "rdfs:label": "政治活動への利用および、宗教活動への利用"
-    },
-    {
-      "@id": "vr:sexual",
-      "@type": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property",
-      "rdfs:label": "性的表現への利用"
     }
   ]
 }
