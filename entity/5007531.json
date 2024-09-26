@@ -7,9 +7,25 @@
   },
   "@graph": [
     {
-      "@id": "vr:violent",
+      "@id": "https://drive.google.com/file/d/1KWp4sRd0oNPTrdEOOhtneT4wMcmMdj3Z/view?usp=sharing",
+      "schema:isBasedOn": {
+        "@id": "https://www.vn3.org/terms"
+      },
+      "vr:sexual": {
+        "@id": "vr:Permitted"
+      },
+      "vr:violent": {
+        "@id": "vr:Permitted"
+      }
+    },
+    {
+      "@id": "vr:Permitted",
+      "rdfs:label": "許可"
+    },
+    {
+      "@id": "vr:political",
       "@type": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property",
-      "rdfs:label": "暴力的表現への利用"
+      "rdfs:label": "政治活動への利用および、宗教活動への利用"
     },
     {
       "@id": "entity:5007531",
@@ -23,30 +39,14 @@
       }
     },
     {
-      "@id": "vr:political",
+      "@id": "vr:violent",
       "@type": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property",
-      "rdfs:label": "政治活動への利用および、宗教活動への利用"
+      "rdfs:label": "暴力的表現への利用"
     },
     {
       "@id": "vr:sexual",
       "@type": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property",
       "rdfs:label": "性的表現への利用"
-    },
-    {
-      "@id": "vr:Permitted",
-      "rdfs:label": "許可"
-    },
-    {
-      "@id": "https://drive.google.com/file/d/1KWp4sRd0oNPTrdEOOhtneT4wMcmMdj3Z/view?usp=sharing",
-      "schema:isBasedOn": {
-        "@id": "https://www.vn3.org/terms"
-      },
-      "vr:sexual": {
-        "@id": "vr:Permitted"
-      },
-      "vr:violent": {
-        "@id": "vr:Permitted"
-      }
     }
   ]
 }

@@ -12,6 +12,16 @@
       "rdfs:label": "政治活動への利用および、宗教活動への利用"
     },
     {
+      "@id": "vr:violent",
+      "@type": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property",
+      "rdfs:label": "暴力的表現への利用"
+    },
+    {
+      "@id": "vr:sexual",
+      "@type": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property",
+      "rdfs:label": "性的表現への利用"
+    },
+    {
       "@id": "entity:3738752",
       "rdfs:label": "無料アバター「セレアーテ」ファンメイド",
       "schema:license": {
@@ -21,16 +31,6 @@
       "schema:url": {
         "@id": "https://booth.pm/ja/items/3738752"
       }
-    },
-    {
-      "@id": "vr:violent",
-      "@type": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property",
-      "rdfs:label": "暴力的表現への利用"
-    },
-    {
-      "@id": "vr:sexual",
-      "@type": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property",
-      "rdfs:label": "性的表現への利用"
     }
   ]
 }

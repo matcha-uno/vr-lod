@@ -7,11 +7,6 @@
   },
   "@graph": [
     {
-      "@id": "vr:violent",
-      "@type": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property",
-      "rdfs:label": "暴力的表現への利用"
-    },
-    {
       "@id": "entity:4127062",
       "rdfs:label": "「公式」アズールレーン天城ちゃん3Dモデル（VRchat対応）",
       "schema:license": {
@@ -23,9 +18,18 @@
       }
     },
     {
+      "@id": "vr:Prohibited",
+      "rdfs:label": "不許可"
+    },
+    {
       "@id": "vr:political",
       "@type": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property",
       "rdfs:label": "政治活動への利用および、宗教活動への利用"
+    },
+    {
+      "@id": "vr:violent",
+      "@type": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property",
+      "rdfs:label": "暴力的表現への利用"
     },
     {
       "@id": "vr:sexual",
@@ -43,10 +47,6 @@
       "vr:violent": {
         "@id": "vr:Prohibited"
       }
-    },
-    {
-      "@id": "vr:Prohibited",
-      "rdfs:label": "不許可"
     }
   ]
 }

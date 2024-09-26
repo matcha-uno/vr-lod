@@ -7,6 +7,21 @@
   },
   "@graph": [
     {
+      "@id": "entity:3828632",
+      "rdfs:label": "オリジナル3Dモデル　びしょぬれのしずくさん",
+      "schema:license": {
+        "@id": "https://drive.google.com/file/d/1iy4dgaT7AK1qtCNNpjp2RR_lDJyCIqho/view?usp=sharing"
+      },
+      "schema:name": "びしょぬれのしずくさん",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/3828632"
+      }
+    },
+    {
+      "@id": "vr:Prohibited",
+      "rdfs:label": "不許可"
+    },
+    {
       "@id": "https://drive.google.com/file/d/1iy4dgaT7AK1qtCNNpjp2RR_lDJyCIqho/view?usp=sharing",
       "schema:isBasedOn": {
         "@id": "https://www.vn3.org/terms"
@@ -22,34 +37,19 @@
       }
     },
     {
-      "@id": "vr:violent",
-      "@type": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property",
-      "rdfs:label": "暴力的表現への利用"
-    },
-    {
       "@id": "vr:political",
       "@type": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property",
       "rdfs:label": "政治活動への利用および、宗教活動への利用"
     },
     {
+      "@id": "vr:violent",
+      "@type": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property",
+      "rdfs:label": "暴力的表現への利用"
+    },
+    {
       "@id": "vr:sexual",
       "@type": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property",
       "rdfs:label": "性的表現への利用"
-    },
-    {
-      "@id": "entity:3828632",
-      "rdfs:label": "オリジナル3Dモデル　びしょぬれのしずくさん",
-      "schema:license": {
-        "@id": "https://drive.google.com/file/d/1iy4dgaT7AK1qtCNNpjp2RR_lDJyCIqho/view?usp=sharing"
-      },
-      "schema:name": "びしょぬれのしずくさん",
-      "schema:url": {
-        "@id": "https://booth.pm/ja/items/3828632"
-      }
-    },
-    {
-      "@id": "vr:Prohibited",
-      "rdfs:label": "不許可"
     }
   ]
 }

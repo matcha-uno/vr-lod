@@ -7,32 +7,6 @@
   },
   "@graph": [
     {
-      "@id": "vr:violent",
-      "@type": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property",
-      "rdfs:label": "暴力的表現への利用"
-    },
-    {
-      "@id": "vr:political",
-      "@type": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property",
-      "rdfs:label": "政治活動への利用および、宗教活動への利用"
-    },
-    {
-      "@id": "vr:sexual",
-      "@type": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property",
-      "rdfs:label": "性的表現への利用"
-    },
-    {
-      "@id": "entity:3550881",
-      "rdfs:label": "うささき usasaki / オリジナル3Dモデル",
-      "schema:license": {
-        "@id": "https://mochiyama.page.link/license_jp"
-      },
-      "schema:name": "うささき",
-      "schema:url": {
-        "@id": "https://booth.pm/ja/items/3550881"
-      }
-    },
-    {
       "@id": "https://mochiyama.page.link/license_jp",
       "schema:isBasedOn": {
         "@id": "https://www.vn3.org/terms"
@@ -50,6 +24,32 @@
     {
       "@id": "vr:Prohibited",
       "rdfs:label": "不許可"
+    },
+    {
+      "@id": "entity:3550881",
+      "rdfs:label": "うささき usasaki / オリジナル3Dモデル",
+      "schema:license": {
+        "@id": "https://mochiyama.page.link/license_jp"
+      },
+      "schema:name": "うささき",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/3550881"
+      }
+    },
+    {
+      "@id": "vr:political",
+      "@type": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property",
+      "rdfs:label": "政治活動への利用および、宗教活動への利用"
+    },
+    {
+      "@id": "vr:violent",
+      "@type": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property",
+      "rdfs:label": "暴力的表現への利用"
+    },
+    {
+      "@id": "vr:sexual",
+      "@type": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property",
+      "rdfs:label": "性的表現への利用"
     }
   ]
 }

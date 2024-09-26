@@ -18,9 +18,8 @@
       }
     },
     {
-      "@id": "vr:violent",
-      "@type": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property",
-      "rdfs:label": "暴力的表現への利用"
+      "@id": "vr:Permitted",
+      "rdfs:label": "許可"
     },
     {
       "@id": "https://creativecommons.org/public-domain/cc0/",
@@ -40,13 +39,14 @@
       "rdfs:label": "政治活動への利用および、宗教活動への利用"
     },
     {
+      "@id": "vr:violent",
+      "@type": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property",
+      "rdfs:label": "暴力的表現への利用"
+    },
+    {
       "@id": "vr:sexual",
       "@type": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property",
       "rdfs:label": "性的表現への利用"
-    },
-    {
-      "@id": "vr:Permitted",
-      "rdfs:label": "許可"
     }
   ]
 }
