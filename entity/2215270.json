@@ -7,11 +7,11 @@
   },
   "@graph": [
     {
-      "@id": "https://vr.matcha.uno/terms/Prohibited",
+      "@id": "vr:Prohibited",
       "rdfs:label": "不許可"
     },
     {
-      "@id": "https://vr.matcha.uno/terms/ProhibitedExceptForPrivateUse",
+      "@id": "vr:ProhibitedExceptForPrivateUse",
       "rdfs:label": "私的利用を除き不許可"
     },
     {
@@ -27,17 +27,17 @@
     },
     {
       "@id": "https://avatar.mio3io.com/license/ja.pdf",
-      "https://vr.matcha.uno/terms/political": {
-        "@id": "https://vr.matcha.uno/terms/Prohibited"
-      },
-      "https://vr.matcha.uno/terms/sexual": {
-        "@id": "https://vr.matcha.uno/terms/ProhibitedExceptForPrivateUse"
-      },
-      "https://vr.matcha.uno/terms/violent": {
-        "@id": "https://vr.matcha.uno/terms/ProhibitedExceptForPrivateUse"
-      },
       "schema:isBasedOn": {
         "@id": "https://www.vn3.org/terms"
+      },
+      "vr:political": {
+        "@id": "vr:Prohibited"
+      },
+      "vr:sexual": {
+        "@id": "vr:ProhibitedExceptForPrivateUse"
+      },
+      "vr:violent": {
+        "@id": "vr:ProhibitedExceptForPrivateUse"
       }
     }
   ]

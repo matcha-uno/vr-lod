@@ -7,6 +7,10 @@
   },
   "@graph": [
     {
+      "@id": "vr:Prohibited",
+      "rdfs:label": "不許可"
+    },
+    {
       "@id": "entity:3390957",
       "rdfs:label": "オリジナル3Ｄモデル「舞夜」Ver.1.02.2",
       "schema:license": {
@@ -18,23 +22,19 @@
       }
     },
     {
-      "@id": "https://vr.matcha.uno/terms/Prohibited",
-      "rdfs:label": "不許可"
-    },
-    {
       "@id": "https://booth.pm/ja/items/3390957#llicense",
-      "https://vr.matcha.uno/terms/political": {
-        "@id": "https://vr.matcha.uno/terms/Prohibited"
+      "vr:political": {
+        "@id": "vr:Prohibited"
       },
-      "https://vr.matcha.uno/terms/sexual": {
-        "@id": "https://vr.matcha.uno/terms/Permitted"
+      "vr:sexual": {
+        "@id": "vr:Permitted"
       },
-      "https://vr.matcha.uno/terms/violent": {
-        "@id": "https://vr.matcha.uno/terms/Permitted"
+      "vr:violent": {
+        "@id": "vr:Permitted"
       }
     },
     {
-      "@id": "https://vr.matcha.uno/terms/Permitted",
+      "@id": "vr:Permitted",
       "rdfs:label": "許可"
     }
   ]

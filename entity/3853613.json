@@ -7,8 +7,20 @@
   },
   "@graph": [
     {
-      "@id": "https://vr.matcha.uno/terms/Prohibited",
+      "@id": "vr:Prohibited",
       "rdfs:label": "不許可"
+    },
+    {
+      "@id": "https://booth.pm/ja/items/3853613#license",
+      "vr:political": {
+        "@id": "vr:Prohibited"
+      },
+      "vr:sexual": {
+        "@id": "vr:Prohibited"
+      },
+      "vr:violent": {
+        "@id": "vr:Prohibited"
+      }
     },
     {
       "@id": "entity:3853613",
@@ -19,18 +31,6 @@
       "schema:name": "いぬいぬ",
       "schema:url": {
         "@id": "https://booth.pm/ja/items/3853613"
-      }
-    },
-    {
-      "@id": "https://booth.pm/ja/items/3853613#license",
-      "https://vr.matcha.uno/terms/political": {
-        "@id": "https://vr.matcha.uno/terms/Prohibited"
-      },
-      "https://vr.matcha.uno/terms/sexual": {
-        "@id": "https://vr.matcha.uno/terms/Prohibited"
-      },
-      "https://vr.matcha.uno/terms/violent": {
-        "@id": "https://vr.matcha.uno/terms/Prohibited"
       }
     }
   ]

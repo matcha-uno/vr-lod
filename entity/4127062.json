@@ -18,19 +18,19 @@
       }
     },
     {
-      "@id": "https://vr.matcha.uno/terms/Prohibited",
+      "@id": "vr:Prohibited",
       "rdfs:label": "不許可"
     },
     {
       "@id": "https://booth.pm/ja/items/4127062#license",
-      "https://vr.matcha.uno/terms/political": {
-        "@id": "https://vr.matcha.uno/terms/Prohibited"
+      "vr:political": {
+        "@id": "vr:Prohibited"
       },
-      "https://vr.matcha.uno/terms/sexual": {
-        "@id": "https://vr.matcha.uno/terms/Prohibited"
+      "vr:sexual": {
+        "@id": "vr:Prohibited"
       },
-      "https://vr.matcha.uno/terms/violent": {
-        "@id": "https://vr.matcha.uno/terms/Prohibited"
+      "vr:violent": {
+        "@id": "vr:Prohibited"
       }
     }
   ]

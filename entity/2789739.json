@@ -19,25 +19,25 @@
     },
     {
       "@id": "https://drive.google.com/file/d/1Sc5PzcyTPZZD4ZQIxXRQkwXjh7gzDMRn/view?usp=sharing",
-      "https://vr.matcha.uno/terms/political": {
-        "@id": "https://vr.matcha.uno/terms/Prohibited"
-      },
-      "https://vr.matcha.uno/terms/sexual": {
-        "@id": "https://vr.matcha.uno/terms/Permitted"
-      },
-      "https://vr.matcha.uno/terms/violent": {
-        "@id": "https://vr.matcha.uno/terms/Permitted"
-      },
       "schema:isBasedOn": {
         "@id": "https://www.vn3.org/terms"
+      },
+      "vr:political": {
+        "@id": "vr:Prohibited"
+      },
+      "vr:sexual": {
+        "@id": "vr:Permitted"
+      },
+      "vr:violent": {
+        "@id": "vr:Permitted"
       }
     },
     {
-      "@id": "https://vr.matcha.uno/terms/Prohibited",
+      "@id": "vr:Prohibited",
       "rdfs:label": "不許可"
     },
     {
-      "@id": "https://vr.matcha.uno/terms/Permitted",
+      "@id": "vr:Permitted",
       "rdfs:label": "許可"
     }
   ]

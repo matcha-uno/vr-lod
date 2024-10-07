@@ -8,22 +8,22 @@
   "@graph": [
     {
       "@id": "https://booth.pm/ja/items/4118550#license",
-      "https://vr.matcha.uno/terms/political": {
-        "@id": "https://vr.matcha.uno/terms/Prohibited"
+      "vr:political": {
+        "@id": "vr:Prohibited"
       },
-      "https://vr.matcha.uno/terms/sexual": {
-        "@id": "https://vr.matcha.uno/terms/Permitted"
+      "vr:sexual": {
+        "@id": "vr:Permitted"
       },
-      "https://vr.matcha.uno/terms/violent": {
-        "@id": "https://vr.matcha.uno/terms/Permitted"
+      "vr:violent": {
+        "@id": "vr:Permitted"
       }
     },
     {
-      "@id": "https://vr.matcha.uno/terms/Prohibited",
+      "@id": "vr:Prohibited",
       "rdfs:label": "不許可"
     },
     {
-      "@id": "https://vr.matcha.uno/terms/Permitted",
+      "@id": "vr:Permitted",
       "rdfs:label": "許可"
     },
     {

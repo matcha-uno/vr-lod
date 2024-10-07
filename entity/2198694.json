@@ -7,6 +7,10 @@
   },
   "@graph": [
     {
+      "@id": "vr:Prohibited",
+      "rdfs:label": "不許可"
+    },
+    {
       "@id": "entity:2198694",
       "rdfs:label": "【オリジナル3Dモデル】ユキちゃん PB対応",
       "schema:license": {
@@ -18,19 +22,15 @@
       }
     },
     {
-      "@id": "https://vr.matcha.uno/terms/Prohibited",
-      "rdfs:label": "不許可"
-    },
-    {
       "@id": "https://booth.pm/ja/items/2198694#license",
-      "https://vr.matcha.uno/terms/political": {
-        "@id": "https://vr.matcha.uno/terms/Prohibited"
+      "vr:political": {
+        "@id": "vr:Prohibited"
       },
-      "https://vr.matcha.uno/terms/sexual": {
-        "@id": "https://vr.matcha.uno/terms/Prohibited"
+      "vr:sexual": {
+        "@id": "vr:Prohibited"
       },
-      "https://vr.matcha.uno/terms/violent": {
-        "@id": "https://vr.matcha.uno/terms/Prohibited"
+      "vr:violent": {
+        "@id": "vr:Prohibited"
       }
     }
   ]

@@ -7,23 +7,8 @@
   },
   "@graph": [
     {
-      "@id": "https://vr.matcha.uno/terms/Prohibited",
+      "@id": "vr:Prohibited",
       "rdfs:label": "不許可"
-    },
-    {
-      "@id": "https://tinyurl.com/yq7zmaxe",
-      "https://vr.matcha.uno/terms/political": {
-        "@id": "https://vr.matcha.uno/terms/Prohibited"
-      },
-      "https://vr.matcha.uno/terms/sexual": {
-        "@id": "https://vr.matcha.uno/terms/Prohibited"
-      },
-      "https://vr.matcha.uno/terms/violent": {
-        "@id": "https://vr.matcha.uno/terms/Prohibited"
-      },
-      "schema:isBasedOn": {
-        "@id": "https://www.vn3.org/terms"
-      }
     },
     {
       "@id": "entity:5351494",
@@ -34,6 +19,21 @@
       "schema:name": "凪夜瑠璃",
       "schema:url": {
         "@id": "https://booth.pm/ja/items/5351494"
+      }
+    },
+    {
+      "@id": "https://tinyurl.com/yq7zmaxe",
+      "schema:isBasedOn": {
+        "@id": "https://www.vn3.org/terms"
+      },
+      "vr:political": {
+        "@id": "vr:Prohibited"
+      },
+      "vr:sexual": {
+        "@id": "vr:Prohibited"
+      },
+      "vr:violent": {
+        "@id": "vr:Prohibited"
       }
     }
   ]

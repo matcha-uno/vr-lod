@@ -7,6 +7,25 @@
   },
   "@graph": [
     {
+      "@id": "https://drive.google.com/file/d/14c0X2qmzlG2tz9xXFgCkVGBEVSdmPMIS/view?usp=sharing",
+      "schema:isBasedOn": {
+        "@id": "https://www.vn3.org/terms"
+      },
+      "vr:political": {
+        "@id": "vr:Prohibited"
+      },
+      "vr:sexual": {
+        "@id": "vr:Permitted"
+      },
+      "vr:violent": {
+        "@id": "vr:Permitted"
+      }
+    },
+    {
+      "@id": "vr:Prohibited",
+      "rdfs:label": "不許可"
+    },
+    {
       "@id": "entity:2258111",
       "rdfs:label": "『ミント』-Mint-【オリジナル3Dモデル】",
       "schema:license": {
@@ -18,26 +37,7 @@
       }
     },
     {
-      "@id": "https://vr.matcha.uno/terms/Prohibited",
-      "rdfs:label": "不許可"
-    },
-    {
-      "@id": "https://drive.google.com/file/d/14c0X2qmzlG2tz9xXFgCkVGBEVSdmPMIS/view?usp=sharing",
-      "https://vr.matcha.uno/terms/political": {
-        "@id": "https://vr.matcha.uno/terms/Prohibited"
-      },
-      "https://vr.matcha.uno/terms/sexual": {
-        "@id": "https://vr.matcha.uno/terms/Permitted"
-      },
-      "https://vr.matcha.uno/terms/violent": {
-        "@id": "https://vr.matcha.uno/terms/Permitted"
-      },
-      "schema:isBasedOn": {
-        "@id": "https://www.vn3.org/terms"
-      }
-    },
-    {
-      "@id": "https://vr.matcha.uno/terms/Permitted",
+      "@id": "vr:Permitted",
       "rdfs:label": "許可"
     }
   ]

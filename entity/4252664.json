@@ -18,19 +18,19 @@
       }
     },
     {
-      "@id": "https://vr.matcha.uno/terms/Ask",
+      "@id": "vr:Ask",
       "rdfs:label": "要問い合わせ・不明"
     },
     {
       "@id": "https://booth.pm/ja/items/4252664#license",
-      "https://vr.matcha.uno/terms/political": {
-        "@id": "https://vr.matcha.uno/terms/Ask"
+      "vr:political": {
+        "@id": "vr:Ask"
       },
-      "https://vr.matcha.uno/terms/sexual": {
-        "@id": "https://vr.matcha.uno/terms/Ask"
+      "vr:sexual": {
+        "@id": "vr:Ask"
       },
-      "https://vr.matcha.uno/terms/violent": {
-        "@id": "https://vr.matcha.uno/terms/Ask"
+      "vr:violent": {
+        "@id": "vr:Ask"
       }
     }
   ]
