@@ -3,26 +3,22 @@
     "entity": "https://vr.matcha.uno/entity/",
     "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
     "schema": "https://schema.org/",
-    "vr": "https://vr.matcha.uno/"
+    "vr": "https://vr.matcha.uno/terms#"
   },
   "@graph": [
     {
-      "@id": "vr:Permitted",
-      "rdfs:label": "許可"
-    },
-    {
       "@id": "https://drive.google.com/file/d/15ltsXX1WyL8-2Oyt7TE06xJyR6YTMsnv/view?usp=sharing",
+      "https://vr.matcha.uno/terms/political": {
+        "@id": "https://vr.matcha.uno/terms/Prohibited"
+      },
+      "https://vr.matcha.uno/terms/sexual": {
+        "@id": "https://vr.matcha.uno/terms/Permitted"
+      },
+      "https://vr.matcha.uno/terms/violent": {
+        "@id": "https://vr.matcha.uno/terms/Permitted"
+      },
       "schema:isBasedOn": {
         "@id": "https://www.vn3.org/terms"
-      },
-      "vr:political": {
-        "@id": "vr:Prohibited"
-      },
-      "vr:sexual": {
-        "@id": "vr:Permitted"
-      },
-      "vr:violent": {
-        "@id": "vr:Permitted"
       }
     },
     {
@@ -37,23 +33,12 @@
       }
     },
     {
-      "@id": "vr:Prohibited",
+      "@id": "https://vr.matcha.uno/terms/Permitted",
+      "rdfs:label": "許可"
+    },
+    {
+      "@id": "https://vr.matcha.uno/terms/Prohibited",
       "rdfs:label": "不許可"
-    },
-    {
-      "@id": "vr:political",
-      "@type": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property",
-      "rdfs:label": "政治活動への利用および、宗教活動への利用"
-    },
-    {
-      "@id": "vr:violent",
-      "@type": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property",
-      "rdfs:label": "暴力的表現への利用"
-    },
-    {
-      "@id": "vr:sexual",
-      "@type": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property",
-      "rdfs:label": "性的表現への利用"
     }
   ]
 }

@@ -1,8 +1,7 @@
 @prefix booth: <https://booth.pm/ja/items/> .
-@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 @prefix schema: <https://schema.org/> .
-@prefix vr: <https://vr.matcha.uno/> .
+@prefix vr: <https://vr.matcha.uno/terms#> .
 
 <https://vr.matcha.uno/entity/1130532> rdfs:label "【オリジナル3Dモデル】メディカルセンタースタッフさん" ;
     schema:license <https://booth.pm/ja/items/1130532#license> ;
@@ -504,16 +503,9 @@
     schema:name "リーメ＆リーバ" ;
     schema:url booth:972559 .
 
-vr:political a rdf:Property ;
-    rdfs:label "政治活動への利用および、宗教活動への利用" .
-
-vr:sexual a rdf:Property ;
-    rdfs:label "性的表現への利用" .
-
-vr:violent a rdf:Property ;
-    rdfs:label "暴力的表現への利用" .
-
-<https://avatar.kotobukiya.co.jp/agreement/savannastreet/> vr:political vr:Prohibited .
+<https://avatar.kotobukiya.co.jp/agreement/savannastreet/> vr:political vr:Prohibited ;
+    vr:sexual vr:Ask ;
+    vr:violent vr:Ask .
 
 <https://booth.pm/ja/items/1130532#license> vr:political vr:Prohibited ;
     vr:sexual vr:Permitted ;
@@ -539,6 +531,10 @@ vr:violent a rdf:Property ;
     vr:sexual vr:Permitted ;
     vr:violent vr:Permitted .
 
+<https://booth.pm/ja/items/2736146#license> vr:political vr:Ask ;
+    vr:sexual vr:Ask ;
+    vr:violent vr:Ask .
+
 <https://booth.pm/ja/items/2780069#license> vr:political vr:Prohibited ;
     vr:sexual vr:Permitted ;
     vr:violent vr:Permitted .
@@ -548,21 +544,32 @@ vr:violent a rdf:Property ;
     vr:violent vr:Permitted .
 
 <https://booth.pm/ja/items/3190100#license> vr:political vr:Prohibited ;
+    vr:sexual vr:Ask ;
     vr:violent vr:Prohibited .
 
 <https://booth.pm/ja/items/3226395#license> vr:political vr:Prohibited ;
     vr:sexual vr:Prohibited ;
     vr:violent vr:Prohibited .
 
+<https://booth.pm/ja/items/3284430#license> vr:political vr:Ask ;
+    vr:sexual vr:Ask ;
+    vr:violent vr:Ask .
+
 <https://booth.pm/ja/items/3390957#llicense> vr:political vr:Prohibited ;
     vr:sexual vr:Permitted ;
     vr:violent vr:Permitted .
 
 <https://booth.pm/ja/items/3472207#license> vr:political vr:Prohibited ;
-    vr:sexual vr:Permitted .
+    vr:sexual vr:Permitted ;
+    vr:violent vr:Ask .
 
 <https://booth.pm/ja/items/3480756#license> vr:political vr:Prohibited ;
-    vr:sexual vr:Permitted .
+    vr:sexual vr:Permitted ;
+    vr:violent vr:Ask .
+
+<https://booth.pm/ja/items/3738752#license> vr:political vr:Ask ;
+    vr:sexual vr:Ask ;
+    vr:violent vr:Ask .
 
 <https://booth.pm/ja/items/3853613#license> vr:political vr:Prohibited ;
     vr:sexual vr:Prohibited ;
@@ -584,6 +591,10 @@ vr:violent a rdf:Property ;
 <https://booth.pm/ja/items/4127062#license> vr:political vr:Prohibited ;
     vr:sexual vr:Prohibited ;
     vr:violent vr:Prohibited .
+
+<https://booth.pm/ja/items/4252664#license> vr:political vr:Ask ;
+    vr:sexual vr:Ask ;
+    vr:violent vr:Ask .
 
 <https://booth.pm/ja/items/4358508#license> vr:political vr:Prohibited ;
     vr:sexual vr:Permitted ;
@@ -620,6 +631,7 @@ vr:violent a rdf:Property ;
     vr:violent vr:Permitted .
 
 <https://drive.google.com/file/d/14uQd-rLtkw3qz1AmL7MvC95dsh4vjQtO/view?usp=sharing> schema:isBasedOn <https://www.vn3.org/terms> ;
+    vr:political vr:Ask ;
     vr:sexual vr:Permitted ;
     vr:violent vr:Permitted .
 
@@ -679,6 +691,7 @@ vr:violent a rdf:Property ;
     vr:violent vr:Permitted .
 
 <https://drive.google.com/file/d/1KWp4sRd0oNPTrdEOOhtneT4wMcmMdj3Z/view?usp=sharing> schema:isBasedOn <https://www.vn3.org/terms> ;
+    vr:political vr:Ask ;
     vr:sexual vr:Permitted ;
     vr:violent vr:Permitted .
 
@@ -712,7 +725,8 @@ vr:violent a rdf:Property ;
     vr:sexual vr:Permitted ;
     vr:violent vr:Permitted .
 
-<https://drive.google.com/file/d/1S5Tfj_d8d0klTBier_b19JlwEvSLsxkG/view> vr:sexual vr:Permitted ;
+<https://drive.google.com/file/d/1S5Tfj_d8d0klTBier_b19JlwEvSLsxkG/view> vr:political vr:Ask ;
+    vr:sexual vr:Permitted ;
     vr:violent vr:Permitted .
 
 <https://drive.google.com/file/d/1Sc5PzcyTPZZD4ZQIxXRQkwXjh7gzDMRn/view?usp=sharing> schema:isBasedOn <https://www.vn3.org/terms> ;
@@ -853,12 +867,15 @@ vr:ProhibitedExceptForPrivateUse rdfs:label "私的利用を除き不許可" .
 <https://drive.google.com/file/d/1YI2J3eIl6HaaDhrw6MP5742rKh_L7e7j/view?usp=sharing> schema:isBasedOn <https://www.vn3.org/terms> ;
     vr:political vr:Prohibited ;
     vr:sexual vr:Permitted ;
-    vr:violent vr:Permitted .
+    vr:violent vr:Ask,
+        vr:Permitted .
 
 <https://drive.google.com/file/d/1rzFcYHyEfmLfmZIP2NarrbwosyCM0rTL/view?usp=sharing> schema:isBasedOn <https://www.vn3.org/terms> ;
     vr:political vr:Prohibited ;
     vr:sexual vr:Permitted ;
     vr:violent vr:Permitted .
+
+vr:Ask rdfs:label "要問い合わせ・不明" .
 
 vr:Prohibited rdfs:label "不許可" .
 

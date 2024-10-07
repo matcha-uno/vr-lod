@@ -1,0 +1,25 @@
+{
+  "@context": {
+    "entity": "https://vr.matcha.uno/entity/",
+    "rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+    "schema": "https://schema.org/",
+    "vr": "https://vr.matcha.uno/"
+  },
+  "@graph": [
+    {
+      "@id": "https://vr.matcha.uno/terms#sexual",
+      "@type": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property",
+      "rdfs:label": "性的表現への利用"
+    },
+    {
+      "@id": "https://vr.matcha.uno/terms#violent",
+      "@type": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property",
+      "rdfs:label": "暴力的表現への利用"
+    },
+    {
+      "@id": "https://vr.matcha.uno/terms#political",
+      "@type": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property",
+      "rdfs:label": "政治活動への利用および、宗教活動への利用"
+    }
+  ]
+}
