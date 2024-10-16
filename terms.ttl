@@ -1,6 +1,8 @@
 @prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
+<https://vr.matcha.uno/terms#Avatar> a rdfs:Class .
+
 <https://vr.matcha.uno/terms#political> a rdf:Property ;
     rdfs:label "政治活動への利用および、宗教活動への利用" .
 

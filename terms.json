@@ -20,6 +20,10 @@
       "@id": "vr:sexual",
       "@type": "http://www.w3.org/1999/02/22-rdf-syntax-ns#Property",
       "rdfs:label": "性的表現への利用"
+    },
+    {
+      "@id": "vr:Avatar",
+      "@type": "rdfs:Class"
     }
   ]
 }
