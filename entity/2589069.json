@@ -27,6 +27,7 @@
     },
     {
       "@id": "entity:2589069",
+      "@type": "vr:Avatar",
       "rdfs:label": "【オリジナル3Dモデル】サタリナ族のメイドさん",
       "schema:license": {
         "@id": "https://drive.google.com/file/d/15ltsXX1WyL8-2Oyt7TE06xJyR6YTMsnv/view?usp=sharing"

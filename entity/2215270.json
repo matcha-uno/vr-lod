@@ -11,21 +11,6 @@
       "rdfs:label": "不許可"
     },
     {
-      "@id": "vr:ProhibitedExceptForPrivateUse",
-      "rdfs:label": "私的利用を除き不許可"
-    },
-    {
-      "@id": "entity:2215270",
-      "rdfs:label": "薄荷 オリジナル3Dモデル #Hakka3D",
-      "schema:license": {
-        "@id": "https://avatar.mio3io.com/license/ja.pdf"
-      },
-      "schema:name": "薄荷",
-      "schema:url": {
-        "@id": "https://booth.pm/ja/items/2215270"
-      }
-    },
-    {
       "@id": "https://avatar.mio3io.com/license/ja.pdf",
       "schema:isBasedOn": {
         "@id": "https://www.vn3.org/terms"
@@ -39,6 +24,22 @@
       "vr:violent": {
         "@id": "vr:ProhibitedExceptForPrivateUse"
       }
+    },
+    {
+      "@id": "entity:2215270",
+      "@type": "vr:Avatar",
+      "rdfs:label": "薄荷 オリジナル3Dモデル #Hakka3D",
+      "schema:license": {
+        "@id": "https://avatar.mio3io.com/license/ja.pdf"
+      },
+      "schema:name": "薄荷",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/2215270"
+      }
+    },
+    {
+      "@id": "vr:ProhibitedExceptForPrivateUse",
+      "rdfs:label": "私的利用を除き不許可"
     }
   ]
 }

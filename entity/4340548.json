@@ -11,17 +11,6 @@
       "rdfs:label": "不許可"
     },
     {
-      "@id": "entity:4340548",
-      "rdfs:label": "まめひなた mamehinata / オリジナル3Dモデル",
-      "schema:license": {
-        "@id": "https://mochiyama.page.link/license_jp"
-      },
-      "schema:name": "まめひなた",
-      "schema:url": {
-        "@id": "https://booth.pm/ja/items/4340548"
-      }
-    },
-    {
       "@id": "https://mochiyama.page.link/license_jp",
       "schema:isBasedOn": {
         "@id": "https://www.vn3.org/terms"
@@ -34,6 +23,18 @@
       },
       "vr:violent": {
         "@id": "vr:Prohibited"
+      }
+    },
+    {
+      "@id": "entity:4340548",
+      "@type": "vr:Avatar",
+      "rdfs:label": "まめひなた mamehinata / オリジナル3Dモデル",
+      "schema:license": {
+        "@id": "https://mochiyama.page.link/license_jp"
+      },
+      "schema:name": "まめひなた",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/4340548"
       }
     }
   ]

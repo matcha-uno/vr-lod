@@ -7,17 +7,6 @@
   },
   "@graph": [
     {
-      "@id": "entity:2953391",
-      "rdfs:label": "『ミルク  Re』-Milk Re-【オリジナル3Dモデル】",
-      "schema:license": {
-        "@id": "https://drive.google.com/file/d/14c0X2qmzlG2tz9xXFgCkVGBEVSdmPMIS/view?usp=sharing"
-      },
-      "schema:name": "ミルク",
-      "schema:url": {
-        "@id": "https://booth.pm/ja/items/2953391"
-      }
-    },
-    {
       "@id": "vr:Prohibited",
       "rdfs:label": "不許可"
     },
@@ -39,6 +28,18 @@
     {
       "@id": "vr:Permitted",
       "rdfs:label": "許可"
+    },
+    {
+      "@id": "entity:2953391",
+      "@type": "vr:Avatar",
+      "rdfs:label": "『ミルク  Re』-Milk Re-【オリジナル3Dモデル】",
+      "schema:license": {
+        "@id": "https://drive.google.com/file/d/14c0X2qmzlG2tz9xXFgCkVGBEVSdmPMIS/view?usp=sharing"
+      },
+      "schema:name": "ミルク",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/2953391"
+      }
     }
   ]
 }

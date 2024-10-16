@@ -11,21 +11,6 @@
       "rdfs:label": "不許可"
     },
     {
-      "@id": "entity:4013951",
-      "rdfs:label": "水瀬 オリジナル3Dモデル #Minase3D",
-      "schema:license": {
-        "@id": "https://avatar.mio3io.com/license/ja.pdf"
-      },
-      "schema:name": "水瀬",
-      "schema:url": {
-        "@id": "https://booth.pm/ja/items/4013951"
-      }
-    },
-    {
-      "@id": "vr:ProhibitedExceptForPrivateUse",
-      "rdfs:label": "私的利用を除き不許可"
-    },
-    {
       "@id": "https://avatar.mio3io.com/license/ja.pdf",
       "schema:isBasedOn": {
         "@id": "https://www.vn3.org/terms"
@@ -39,6 +24,22 @@
       "vr:violent": {
         "@id": "vr:ProhibitedExceptForPrivateUse"
       }
+    },
+    {
+      "@id": "entity:4013951",
+      "@type": "vr:Avatar",
+      "rdfs:label": "水瀬 オリジナル3Dモデル #Minase3D",
+      "schema:license": {
+        "@id": "https://avatar.mio3io.com/license/ja.pdf"
+      },
+      "schema:name": "水瀬",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/4013951"
+      }
+    },
+    {
+      "@id": "vr:ProhibitedExceptForPrivateUse",
+      "rdfs:label": "私的利用を除き不許可"
     }
   ]
 }

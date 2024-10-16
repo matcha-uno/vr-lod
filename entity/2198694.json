@@ -11,17 +11,6 @@
       "rdfs:label": "不許可"
     },
     {
-      "@id": "entity:2198694",
-      "rdfs:label": "【オリジナル3Dモデル】ユキちゃん PB対応",
-      "schema:license": {
-        "@id": "https://booth.pm/ja/items/2198694#license"
-      },
-      "schema:name": "ユキちゃん",
-      "schema:url": {
-        "@id": "https://booth.pm/ja/items/2198694"
-      }
-    },
-    {
       "@id": "https://booth.pm/ja/items/2198694#license",
       "vr:political": {
         "@id": "vr:Prohibited"
@@ -31,6 +20,18 @@
       },
       "vr:violent": {
         "@id": "vr:Prohibited"
+      }
+    },
+    {
+      "@id": "entity:2198694",
+      "@type": "vr:Avatar",
+      "rdfs:label": "【オリジナル3Dモデル】ユキちゃん PB対応",
+      "schema:license": {
+        "@id": "https://booth.pm/ja/items/2198694#license"
+      },
+      "schema:name": "ユキちゃん",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/2198694"
       }
     }
   ]

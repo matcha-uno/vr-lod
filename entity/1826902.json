@@ -12,6 +12,7 @@
     },
     {
       "@id": "entity:1826902",
+      "@type": "vr:Avatar",
       "rdfs:label": "【オリジナル3Dモデル】京狐",
       "schema:license": {
         "@id": "https://drive.google.com/file/d/1rzFcYHyEfmLfmZIP2NarrbwosyCM0rTL/vie?wusp=sharing"

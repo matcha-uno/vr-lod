@@ -7,7 +7,16 @@
   },
   "@graph": [
     {
+      "@id": "vr:Prohibited",
+      "rdfs:label": "不許可"
+    },
+    {
+      "@id": "vr:Permitted",
+      "rdfs:label": "許可"
+    },
+    {
       "@id": "entity:3741802",
+      "@type": "vr:Avatar",
       "rdfs:label": "VR向けアバターモデル「RadDollV2」【無料】",
       "schema:license": {
         "@id": "https://drive.google.com/file/d/1Wo11Fjw1E2oxslv8hexHb7VFULpfeIqx/view?usp=sharing"
@@ -31,14 +40,6 @@
       "vr:violent": {
         "@id": "vr:Permitted"
       }
-    },
-    {
-      "@id": "vr:Prohibited",
-      "rdfs:label": "不許可"
-    },
-    {
-      "@id": "vr:Permitted",
-      "rdfs:label": "許可"
     }
   ]
 }

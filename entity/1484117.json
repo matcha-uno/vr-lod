@@ -8,6 +8,7 @@
   "@graph": [
     {
       "@id": "entity:1484117",
+      "@type": "vr:Avatar",
       "rdfs:label": "【オリジナル3Dモデル】幽狐族のお姉様",
       "schema:license": {
         "@id": "https://booth.pm/ja/items/1484117#license"

@@ -7,21 +7,6 @@
   },
   "@graph": [
     {
-      "@id": "entity:3818504",
-      "rdfs:label": "【オリジナル3Dモデル】-ハオラン-HAOLAN",
-      "schema:license": {
-        "@id": "https://drive.google.com/file/d/1iBBssWJMqPg3IT3utIu_7mx9L7snEYSv/view?usp=sharing"
-      },
-      "schema:name": "ハオラン",
-      "schema:url": {
-        "@id": "https://booth.pm/ja/items/3818504"
-      }
-    },
-    {
-      "@id": "vr:Permitted",
-      "rdfs:label": "許可"
-    },
-    {
       "@id": "vr:Prohibited",
       "rdfs:label": "不許可"
     },
@@ -39,6 +24,22 @@
       "vr:violent": {
         "@id": "vr:Permitted"
       }
+    },
+    {
+      "@id": "entity:3818504",
+      "@type": "vr:Avatar",
+      "rdfs:label": "【オリジナル3Dモデル】-ハオラン-HAOLAN",
+      "schema:license": {
+        "@id": "https://drive.google.com/file/d/1iBBssWJMqPg3IT3utIu_7mx9L7snEYSv/view?usp=sharing"
+      },
+      "schema:name": "ハオラン",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/3818504"
+      }
+    },
+    {
+      "@id": "vr:Permitted",
+      "rdfs:label": "許可"
     }
   ]
 }

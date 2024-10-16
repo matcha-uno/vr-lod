@@ -7,6 +7,10 @@
   },
   "@graph": [
     {
+      "@id": "vr:Prohibited",
+      "rdfs:label": "不許可"
+    },
+    {
       "@id": "https://drive.google.com/file/d/1rzFcYHyEfmLfmZIP2NarrbwosyCM0rTL/view?usp=sharing",
       "schema:isBasedOn": {
         "@id": "https://www.vn3.org/terms"
@@ -22,15 +26,12 @@
       }
     },
     {
-      "@id": "vr:Prohibited",
-      "rdfs:label": "不許可"
-    },
-    {
       "@id": "vr:Permitted",
       "rdfs:label": "許可"
     },
     {
       "@id": "entity:2322146",
+      "@type": "vr:Avatar",
       "rdfs:label": "【オリジナル3Dモデル】沙猫-さねこ-",
       "schema:license": {
         "@id": "https://drive.google.com/file/d/1rzFcYHyEfmLfmZIP2NarrbwosyCM0rTL/view?usp=sharing"

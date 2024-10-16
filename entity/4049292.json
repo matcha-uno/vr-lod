@@ -7,25 +7,6 @@
   },
   "@graph": [
     {
-      "@id": "entity:4049292",
-      "rdfs:label": "オリジナル3Dモデル「うるる」#Ururu3D",
-      "schema:license": {
-        "@id": "https://drive.google.com/file/d/17Okh-c2rI5S_K-SFu8ANDyLuRApiGBfR/view?usp=sharing"
-      },
-      "schema:name": "うるる",
-      "schema:url": {
-        "@id": "https://booth.pm/ja/items/4049292"
-      }
-    },
-    {
-      "@id": "vr:Permitted",
-      "rdfs:label": "許可"
-    },
-    {
-      "@id": "vr:Prohibited",
-      "rdfs:label": "不許可"
-    },
-    {
       "@id": "https://drive.google.com/file/d/17Okh-c2rI5S_K-SFu8ANDyLuRApiGBfR/view?usp=sharing",
       "schema:isBasedOn": {
         "@id": "https://www.vn3.org/terms"
@@ -39,6 +20,26 @@
       "vr:violent": {
         "@id": "vr:ProhibitedExceptForPrivateUse"
       }
+    },
+    {
+      "@id": "vr:Prohibited",
+      "rdfs:label": "不許可"
+    },
+    {
+      "@id": "entity:4049292",
+      "@type": "vr:Avatar",
+      "rdfs:label": "オリジナル3Dモデル「うるる」#Ururu3D",
+      "schema:license": {
+        "@id": "https://drive.google.com/file/d/17Okh-c2rI5S_K-SFu8ANDyLuRApiGBfR/view?usp=sharing"
+      },
+      "schema:name": "うるる",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/4049292"
+      }
+    },
+    {
+      "@id": "vr:Permitted",
+      "rdfs:label": "許可"
     },
     {
       "@id": "vr:ProhibitedExceptForPrivateUse",

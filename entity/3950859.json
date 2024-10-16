@@ -7,25 +7,6 @@
   },
   "@graph": [
     {
-      "@id": "entity:3950859",
-      "rdfs:label": "【オリジナル3Dモデル】Platinum - プラチナ",
-      "schema:license": {
-        "@id": "https://drive.google.com/file/d/14uQd-rLtkw3qz1AmL7MvC95dsh4vjQtO/view?usp=sharing"
-      },
-      "schema:name": "プラチナ",
-      "schema:url": {
-        "@id": "https://booth.pm/ja/items/3950859"
-      }
-    },
-    {
-      "@id": "vr:Ask",
-      "rdfs:label": "要問い合わせ・不明"
-    },
-    {
-      "@id": "vr:Permitted",
-      "rdfs:label": "許可"
-    },
-    {
       "@id": "https://drive.google.com/file/d/14uQd-rLtkw3qz1AmL7MvC95dsh4vjQtO/view?usp=sharing",
       "schema:isBasedOn": {
         "@id": "https://www.vn3.org/terms"
@@ -39,6 +20,26 @@
       "vr:violent": {
         "@id": "vr:Permitted"
       }
+    },
+    {
+      "@id": "entity:3950859",
+      "@type": "vr:Avatar",
+      "rdfs:label": "【オリジナル3Dモデル】Platinum - プラチナ",
+      "schema:license": {
+        "@id": "https://drive.google.com/file/d/14uQd-rLtkw3qz1AmL7MvC95dsh4vjQtO/view?usp=sharing"
+      },
+      "schema:name": "プラチナ",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/3950859"
+      }
+    },
+    {
+      "@id": "vr:Permitted",
+      "rdfs:label": "許可"
+    },
+    {
+      "@id": "vr:Ask",
+      "rdfs:label": "要問い合わせ・不明"
     }
   ]
 }

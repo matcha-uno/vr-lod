@@ -27,6 +27,7 @@
     },
     {
       "@id": "entity:2495796",
+      "@type": "vr:Avatar",
       "rdfs:label": "オリジナル3Dモデル『レイニィ』",
       "schema:license": {
         "@id": "https://drive.google.com/file/d/1toySAGxVxKPS_zypaDI08FErXfBe9mMe/view?usp=sharing"

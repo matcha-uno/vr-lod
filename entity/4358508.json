@@ -7,7 +7,12 @@
   },
   "@graph": [
     {
+      "@id": "vr:Prohibited",
+      "rdfs:label": "不許可"
+    },
+    {
       "@id": "entity:4358508",
+      "@type": "vr:Avatar",
       "rdfs:label": "オリジナル3Ｄモデル「ユギ」「ミヨ」",
       "schema:license": {
         "@id": "https://booth.pm/ja/items/4358508#license"
@@ -16,10 +21,6 @@
       "schema:url": {
         "@id": "https://booth.pm/ja/items/4358508"
       }
-    },
-    {
-      "@id": "vr:Prohibited",
-      "rdfs:label": "不許可"
     },
     {
       "@id": "vr:Permitted",

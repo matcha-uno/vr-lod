@@ -7,7 +7,12 @@
   },
   "@graph": [
     {
+      "@id": "vr:Prohibited",
+      "rdfs:label": "不許可"
+    },
+    {
       "@id": "entity:5260363",
+      "@type": "vr:Avatar",
       "rdfs:label": "【オリジナル3Dモデル】狛乃-Komano-",
       "schema:license": {
         "@id": "https://drive.google.com/file/d/1rzFcYHyEfmLfmZIP2NarrbwosyCM0rTL/view?usp=sharing"
@@ -16,10 +21,6 @@
       "schema:url": {
         "@id": "https://booth.pm/ja/items/5260363"
       }
-    },
-    {
-      "@id": "vr:Prohibited",
-      "rdfs:label": "不許可"
     },
     {
       "@id": "vr:Permitted",

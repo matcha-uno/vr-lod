@@ -7,15 +7,8 @@
   },
   "@graph": [
     {
-      "@id": "entity:1777704",
-      "rdfs:label": "【3Dモデル】『アルディナ ver.1.13』",
-      "schema:license": {
-        "@id": "https://booth.pm/ja/items/1777704#license"
-      },
-      "schema:name": "アルディナ",
-      "schema:url": {
-        "@id": "https://booth.pm/ja/items/1777704"
-      }
+      "@id": "vr:Prohibited",
+      "rdfs:label": "不許可"
     },
     {
       "@id": "https://booth.pm/ja/items/1777704#license",
@@ -30,8 +23,16 @@
       }
     },
     {
-      "@id": "vr:Prohibited",
-      "rdfs:label": "不許可"
+      "@id": "entity:1777704",
+      "@type": "vr:Avatar",
+      "rdfs:label": "【3Dモデル】『アルディナ ver.1.13』",
+      "schema:license": {
+        "@id": "https://booth.pm/ja/items/1777704#license"
+      },
+      "schema:name": "アルディナ",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/1777704"
+      }
     },
     {
       "@id": "vr:Permitted",

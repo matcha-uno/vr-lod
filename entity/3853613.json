@@ -7,10 +7,6 @@
   },
   "@graph": [
     {
-      "@id": "vr:Prohibited",
-      "rdfs:label": "不許可"
-    },
-    {
       "@id": "https://booth.pm/ja/items/3853613#license",
       "vr:political": {
         "@id": "vr:Prohibited"
@@ -23,7 +19,12 @@
       }
     },
     {
+      "@id": "vr:Prohibited",
+      "rdfs:label": "不許可"
+    },
+    {
       "@id": "entity:3853613",
+      "@type": "vr:Avatar",
       "rdfs:label": "【VRC・VRM アバター】inuinu いぬいぬ 【Quest対応】",
       "schema:license": {
         "@id": "https://booth.pm/ja/items/3853613#license"

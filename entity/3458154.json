@@ -11,6 +11,18 @@
       "rdfs:label": "不許可"
     },
     {
+      "@id": "entity:3458154",
+      "@type": "vr:Avatar",
+      "rdfs:label": "【VRChat向け3Dモデル】双迦 -ソカ(SOKA)",
+      "schema:license": {
+        "@id": "https://drive.google.com/file/d/1kccDhpbRYQ9-FZiOjL7NHQYFvp2c8ip0/view?usp=sharing"
+      },
+      "schema:name": "双迦",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/3458154"
+      }
+    },
+    {
       "@id": "https://drive.google.com/file/d/1kccDhpbRYQ9-FZiOjL7NHQYFvp2c8ip0/view?usp=sharing",
       "schema:isBasedOn": {
         "@id": "https://www.vn3.org/terms"
@@ -23,17 +35,6 @@
       },
       "vr:violent": {
         "@id": "vr:Prohibited"
-      }
-    },
-    {
-      "@id": "entity:3458154",
-      "rdfs:label": "【VRChat向け3Dモデル】双迦 -ソカ(SOKA)",
-      "schema:license": {
-        "@id": "https://drive.google.com/file/d/1kccDhpbRYQ9-FZiOjL7NHQYFvp2c8ip0/view?usp=sharing"
-      },
-      "schema:name": "双迦",
-      "schema:url": {
-        "@id": "https://booth.pm/ja/items/3458154"
       }
     }
   ]

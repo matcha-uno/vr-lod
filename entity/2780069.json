@@ -7,17 +7,6 @@
   },
   "@graph": [
     {
-      "@id": "entity:2780069",
-      "rdfs:label": "オリジナル3Ｄモデル「ここあ」Ver.1.03",
-      "schema:license": {
-        "@id": "https://booth.pm/ja/items/2780069#license"
-      },
-      "schema:name": "ここあ",
-      "schema:url": {
-        "@id": "https://booth.pm/ja/items/2780069"
-      }
-    },
-    {
       "@id": "vr:Prohibited",
       "rdfs:label": "不許可"
     },
@@ -31,6 +20,18 @@
       },
       "vr:violent": {
         "@id": "vr:Permitted"
+      }
+    },
+    {
+      "@id": "entity:2780069",
+      "@type": "vr:Avatar",
+      "rdfs:label": "オリジナル3Ｄモデル「ここあ」Ver.1.03",
+      "schema:license": {
+        "@id": "https://booth.pm/ja/items/2780069#license"
+      },
+      "schema:name": "ここあ",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/2780069"
       }
     },
     {

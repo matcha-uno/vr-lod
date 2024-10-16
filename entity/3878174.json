@@ -12,6 +12,7 @@
     },
     {
       "@id": "entity:3878174",
+      "@type": "vr:Avatar",
       "rdfs:label": "original 3D model 「ましゅ -mashu-」",
       "schema:license": {
         "@id": "https://drive.google.com/file/d/1M2Q4S9xJyAOD3hcMmB-M6hQ1wEMVWxlG/view?usp=sharing"

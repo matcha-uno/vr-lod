@@ -27,6 +27,7 @@
     },
     {
       "@id": "entity:4035411",
+      "@type": "vr:Avatar",
       "rdfs:label": "オリジナル3Dモデル「セレスティア」ver1.02",
       "schema:license": {
         "@id": "https://drive.google.com/file/d/1YI2J3eIl6HaaDhrw6MP5742rKh_L7e7j/view?usp=sharing"

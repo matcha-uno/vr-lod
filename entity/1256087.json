@@ -7,6 +7,10 @@
   },
   "@graph": [
     {
+      "@id": "vr:Prohibited",
+      "rdfs:label": "不許可"
+    },
+    {
       "@id": "https://drive.google.com/file/d/1T1zjIU-5wb_5eSpb2RsmTNSbw5wtu9zy/view?usp=sharing",
       "schema:isBasedOn": {
         "@id": "https://www.vn3.org/terms"
@@ -22,11 +26,8 @@
       }
     },
     {
-      "@id": "vr:Prohibited",
-      "rdfs:label": "不許可"
-    },
-    {
       "@id": "entity:1256087",
+      "@type": "vr:Avatar",
       "rdfs:label": "オリジナル3Dモデル「ミーシェ」",
       "schema:license": {
         "@id": "https://drive.google.com/file/d/1T1zjIU-5wb_5eSpb2RsmTNSbw5wtu9zy/view?usp=sharing"

@@ -22,15 +22,8 @@
       }
     },
     {
-      "@id": "vr:Ask",
-      "rdfs:label": "要問い合わせ・不明"
-    },
-    {
-      "@id": "vr:Permitted",
-      "rdfs:label": "許可"
-    },
-    {
       "@id": "entity:5007531",
+      "@type": "vr:Avatar",
       "rdfs:label": "真冬 Mafuyu / オリジナル3Dモデル ",
       "schema:license": {
         "@id": "https://drive.google.com/file/d/1KWp4sRd0oNPTrdEOOhtneT4wMcmMdj3Z/view?usp=sharing"
@@ -39,6 +32,14 @@
       "schema:url": {
         "@id": "https://booth.pm/ja/items/5007531"
       }
+    },
+    {
+      "@id": "vr:Permitted",
+      "rdfs:label": "許可"
+    },
+    {
+      "@id": "vr:Ask",
+      "rdfs:label": "要問い合わせ・不明"
     }
   ]
 }

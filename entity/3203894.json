@@ -11,6 +11,18 @@
       "rdfs:label": "不許可"
     },
     {
+      "@id": "entity:3203894",
+      "@type": "vr:Avatar",
+      "rdfs:label": "杏里 オリジナル3Dモデル #Anri3D",
+      "schema:license": {
+        "@id": "https://avatar.mio3io.com/license/ja.pdf"
+      },
+      "schema:name": "杏里",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/3203894"
+      }
+    },
+    {
       "@id": "https://avatar.mio3io.com/license/ja.pdf",
       "vr:political": {
         "@id": "vr:Prohibited"
@@ -25,17 +37,6 @@
     {
       "@id": "vr:ProhibitedExceptForPrivateUse",
       "rdfs:label": "私的利用を除き不許可"
-    },
-    {
-      "@id": "entity:3203894",
-      "rdfs:label": "杏里 オリジナル3Dモデル #Anri3D",
-      "schema:license": {
-        "@id": "https://avatar.mio3io.com/license/ja.pdf"
-      },
-      "schema:name": "杏里",
-      "schema:url": {
-        "@id": "https://booth.pm/ja/items/3203894"
-      }
     }
   ]
 }

@@ -7,18 +7,6 @@
   },
   "@graph": [
     {
-      "@id": "https://booth.pm/ja/items/4118550#license",
-      "vr:political": {
-        "@id": "vr:Prohibited"
-      },
-      "vr:sexual": {
-        "@id": "vr:Permitted"
-      },
-      "vr:violent": {
-        "@id": "vr:Permitted"
-      }
-    },
-    {
       "@id": "vr:Prohibited",
       "rdfs:label": "不許可"
     },
@@ -28,6 +16,7 @@
     },
     {
       "@id": "entity:4118550",
+      "@type": "vr:Avatar",
       "rdfs:label": "【3Dモデル】『ゾメちゃん ver.1.3』Avzomend",
       "schema:license": {
         "@id": "https://booth.pm/ja/items/4118550#license"
@@ -35,6 +24,18 @@
       "schema:name": "ゾメちゃん",
       "schema:url": {
         "@id": "https://booth.pm/ja/items/4118550"
+      }
+    },
+    {
+      "@id": "https://booth.pm/ja/items/4118550#license",
+      "vr:political": {
+        "@id": "vr:Prohibited"
+      },
+      "vr:sexual": {
+        "@id": "vr:Permitted"
+      },
+      "vr:violent": {
+        "@id": "vr:Permitted"
       }
     }
   ]

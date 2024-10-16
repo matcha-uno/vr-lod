@@ -7,6 +7,18 @@
   },
   "@graph": [
     {
+      "@id": "entity:4023598",
+      "@type": "vr:Avatar",
+      "rdfs:label": "【オリジナル3Dモデル】Nayu - ナユ",
+      "schema:license": {
+        "@id": "https://drive.google.com/file/d/1S5Tfj_d8d0klTBier_b19JlwEvSLsxkG/view"
+      },
+      "schema:name": "Nayu",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/4023598"
+      }
+    },
+    {
       "@id": "https://drive.google.com/file/d/1S5Tfj_d8d0klTBier_b19JlwEvSLsxkG/view",
       "vr:political": {
         "@id": "vr:Ask"
@@ -19,23 +31,12 @@
       }
     },
     {
-      "@id": "vr:Ask",
-      "rdfs:label": "要問い合わせ・不明"
-    },
-    {
-      "@id": "entity:4023598",
-      "rdfs:label": "【オリジナル3Dモデル】Nayu - ナユ",
-      "schema:license": {
-        "@id": "https://drive.google.com/file/d/1S5Tfj_d8d0klTBier_b19JlwEvSLsxkG/view"
-      },
-      "schema:name": "Nayu",
-      "schema:url": {
-        "@id": "https://booth.pm/ja/items/4023598"
-      }
-    },
-    {
       "@id": "vr:Permitted",
       "rdfs:label": "許可"
+    },
+    {
+      "@id": "vr:Ask",
+      "rdfs:label": "要問い合わせ・不明"
     }
   ]
 }

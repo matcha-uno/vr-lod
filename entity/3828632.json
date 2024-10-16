@@ -27,6 +27,7 @@
     },
     {
       "@id": "entity:3828632",
+      "@type": "vr:Avatar",
       "rdfs:label": "オリジナル3Dモデル　びしょぬれのしずくさん",
       "schema:license": {
         "@id": "https://drive.google.com/file/d/1iy4dgaT7AK1qtCNNpjp2RR_lDJyCIqho/view?usp=sharing"

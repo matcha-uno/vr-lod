@@ -7,7 +7,12 @@
   },
   "@graph": [
     {
+      "@id": "vr:Prohibited",
+      "rdfs:label": "不許可"
+    },
+    {
       "@id": "entity:972559",
+      "@type": "vr:Avatar",
       "rdfs:label": "【3Dモデル】Leeme -リーメ- & Reeva -リーバ-【PhysBones対応】",
       "schema:license": {
         "@id": "https://uv-license.com/ja/license?utf8=%E2%9C%93&pcu=true&ccu=true&ddw=true&dmd=true&seu=true&veu=true&remarks=true"
@@ -16,10 +21,6 @@
       "schema:url": {
         "@id": "https://booth.pm/ja/items/972559"
       }
-    },
-    {
-      "@id": "vr:Prohibited",
-      "rdfs:label": "不許可"
     },
     {
       "@id": "vr:Permitted",

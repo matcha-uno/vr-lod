@@ -7,6 +7,26 @@
   },
   "@graph": [
     {
+      "@id": "entity:3480756",
+      "@type": "vr:Avatar",
+      "rdfs:label": "Original 3D model【華夜 -Kaya-】",
+      "schema:license": {
+        "@id": "https://booth.pm/ja/items/3480756#license"
+      },
+      "schema:name": "華夜",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/3480756"
+      }
+    },
+    {
+      "@id": "vr:Prohibited",
+      "rdfs:label": "不許可"
+    },
+    {
+      "@id": "vr:Permitted",
+      "rdfs:label": "許可"
+    },
+    {
       "@id": "https://booth.pm/ja/items/3480756#license",
       "vr:political": {
         "@id": "vr:Prohibited"
@@ -16,25 +36,6 @@
       },
       "vr:violent": {
         "@id": "vr:Ask"
-      }
-    },
-    {
-      "@id": "vr:Permitted",
-      "rdfs:label": "許可"
-    },
-    {
-      "@id": "vr:Prohibited",
-      "rdfs:label": "不許可"
-    },
-    {
-      "@id": "entity:3480756",
-      "rdfs:label": "Original 3D model【華夜 -Kaya-】",
-      "schema:license": {
-        "@id": "https://booth.pm/ja/items/3480756#license"
-      },
-      "schema:name": "華夜",
-      "schema:url": {
-        "@id": "https://booth.pm/ja/items/3480756"
       }
     },
     {

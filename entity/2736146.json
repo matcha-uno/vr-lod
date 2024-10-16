@@ -8,6 +8,7 @@
   "@graph": [
     {
       "@id": "entity:2736146",
+      "@type": "vr:Avatar",
       "rdfs:label": "QuQuオリジナルアバター “U”",
       "schema:license": {
         "@id": "https://booth.pm/ja/items/2736146#license"

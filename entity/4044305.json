@@ -7,17 +7,6 @@
   },
   "@graph": [
     {
-      "@id": "entity:4044305",
-      "rdfs:label": "ギミック搭載オリジナル3Dモデル「ソフィナ-Sophina-」",
-      "schema:license": {
-        "@id": "https://drive.google.com/file/d/1tdIKuniVzvnvruY1VZywXaj35SDZpMPQ/view?usp=sharing"
-      },
-      "schema:name": "ソフィナ",
-      "schema:url": {
-        "@id": "https://booth.pm/ja/items/4044305"
-      }
-    },
-    {
       "@id": "vr:Prohibited",
       "rdfs:label": "不許可"
     },
@@ -34,6 +23,18 @@
       },
       "vr:violent": {
         "@id": "vr:Permitted"
+      }
+    },
+    {
+      "@id": "entity:4044305",
+      "@type": "vr:Avatar",
+      "rdfs:label": "ギミック搭載オリジナル3Dモデル「ソフィナ-Sophina-」",
+      "schema:license": {
+        "@id": "https://drive.google.com/file/d/1tdIKuniVzvnvruY1VZywXaj35SDZpMPQ/view?usp=sharing"
+      },
+      "schema:name": "ソフィナ",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/4044305"
       }
     },
     {

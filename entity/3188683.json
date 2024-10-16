@@ -7,6 +7,10 @@
   },
   "@graph": [
     {
+      "@id": "vr:Ask",
+      "rdfs:label": "要問い合わせ・不明"
+    },
+    {
       "@id": "https://avatar.kotobukiya.co.jp/agreement/savannastreet/",
       "vr:political": {
         "@id": "vr:Prohibited"
@@ -24,6 +28,7 @@
     },
     {
       "@id": "entity:3188683",
+      "@type": "vr:Avatar",
       "rdfs:label": "【オリジナル3Dモデル】 イリオ1.0 ワイルドキャットコーデ #サバンナストリート",
       "schema:license": {
         "@id": "https://avatar.kotobukiya.co.jp/agreement/savannastreet/"
@@ -32,10 +37,6 @@
       "schema:url": {
         "@id": "https://booth.pm/ja/items/3188683"
       }
-    },
-    {
-      "@id": "vr:Ask",
-      "rdfs:label": "要問い合わせ・不明"
     }
   ]
 }

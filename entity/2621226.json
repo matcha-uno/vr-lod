@@ -7,17 +7,6 @@
   },
   "@graph": [
     {
-      "@id": "entity:2621226",
-      "rdfs:label": "オリジナル3Dモデル「ハムちゃん/Hamster」",
-      "schema:license": {
-        "@id": "https://creativecommons.org/public-domain/cc0/"
-      },
-      "schema:name": "ハムちゃん",
-      "schema:url": {
-        "@id": "https://booth.pm/ja/items/2621226"
-      }
-    },
-    {
       "@id": "https://creativecommons.org/public-domain/cc0/",
       "vr:political": {
         "@id": "vr:Permitted"
@@ -27,6 +16,18 @@
       },
       "vr:violent": {
         "@id": "vr:Permitted"
+      }
+    },
+    {
+      "@id": "entity:2621226",
+      "@type": "vr:Avatar",
+      "rdfs:label": "オリジナル3Dモデル「ハムちゃん/Hamster」",
+      "schema:license": {
+        "@id": "https://creativecommons.org/public-domain/cc0/"
+      },
+      "schema:name": "ハムちゃん",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/2621226"
       }
     },
     {

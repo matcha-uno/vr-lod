@@ -27,6 +27,7 @@
     },
     {
       "@id": "entity:4431242",
+      "@type": "vr:Avatar",
       "rdfs:label": "オリジナル3Dモデル「めいゆん -meiyun-」",
       "schema:license": {
         "@id": "https://drive.google.com/file/d/1NUv_9ILSSO1TAogmiM6lPO96azcIiLZl/view?usp=sharing"

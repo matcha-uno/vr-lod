@@ -7,23 +7,8 @@
   },
   "@graph": [
     {
-      "@id": "entity:4707634",
-      "rdfs:label": "森羅 オリジナル3Dモデル #Shinra3D",
-      "schema:license": {
-        "@id": "https://avatar.mio3io.com/license/ja.pdf"
-      },
-      "schema:name": "森羅",
-      "schema:url": {
-        "@id": "https://booth.pm/ja/items/4707634"
-      }
-    },
-    {
       "@id": "vr:Prohibited",
       "rdfs:label": "不許可"
-    },
-    {
-      "@id": "vr:ProhibitedExceptForPrivateUse",
-      "rdfs:label": "私的利用を除き不許可"
     },
     {
       "@id": "https://avatar.mio3io.com/license/ja.pdf",
@@ -38,6 +23,22 @@
       },
       "vr:violent": {
         "@id": "vr:ProhibitedExceptForPrivateUse"
+      }
+    },
+    {
+      "@id": "vr:ProhibitedExceptForPrivateUse",
+      "rdfs:label": "私的利用を除き不許可"
+    },
+    {
+      "@id": "entity:4707634",
+      "@type": "vr:Avatar",
+      "rdfs:label": "森羅 オリジナル3Dモデル #Shinra3D",
+      "schema:license": {
+        "@id": "https://avatar.mio3io.com/license/ja.pdf"
+      },
+      "schema:name": "森羅",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/4707634"
       }
     }
   ]

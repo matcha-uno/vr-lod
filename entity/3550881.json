@@ -7,17 +7,6 @@
   },
   "@graph": [
     {
-      "@id": "entity:3550881",
-      "rdfs:label": "うささき usasaki / オリジナル3Dモデル",
-      "schema:license": {
-        "@id": "https://mochiyama.page.link/license_jp"
-      },
-      "schema:name": "うささき",
-      "schema:url": {
-        "@id": "https://booth.pm/ja/items/3550881"
-      }
-    },
-    {
       "@id": "vr:Prohibited",
       "rdfs:label": "不許可"
     },
@@ -34,6 +23,18 @@
       },
       "vr:violent": {
         "@id": "vr:Prohibited"
+      }
+    },
+    {
+      "@id": "entity:3550881",
+      "@type": "vr:Avatar",
+      "rdfs:label": "うささき usasaki / オリジナル3Dモデル",
+      "schema:license": {
+        "@id": "https://mochiyama.page.link/license_jp"
+      },
+      "schema:name": "うささき",
+      "schema:url": {
+        "@id": "https://booth.pm/ja/items/3550881"
       }
     }
   ]

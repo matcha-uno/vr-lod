@@ -7,7 +7,20 @@
   },
   "@graph": [
     {
+      "@id": "https://booth.pm/ja/items/3738752#license",
+      "vr:political": {
+        "@id": "vr:Ask"
+      },
+      "vr:sexual": {
+        "@id": "vr:Ask"
+      },
+      "vr:violent": {
+        "@id": "vr:Ask"
+      }
+    },
+    {
       "@id": "entity:3738752",
+      "@type": "vr:Avatar",
       "rdfs:label": "無料アバター「セレアーテ」ファンメイド",
       "schema:license": {
         "@id": "https://booth.pm/ja/items/3738752#license"
@@ -20,18 +33,6 @@
     {
       "@id": "vr:Ask",
       "rdfs:label": "要問い合わせ・不明"
-    },
-    {
-      "@id": "https://booth.pm/ja/items/3738752#license",
-      "vr:political": {
-        "@id": "vr:Ask"
-      },
-      "vr:sexual": {
-        "@id": "vr:Ask"
-      },
-      "vr:violent": {
-        "@id": "vr:Ask"
-      }
     }
   ]
 }

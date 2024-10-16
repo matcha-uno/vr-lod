@@ -7,11 +7,8 @@
   },
   "@graph": [
     {
-      "@id": "vr:Prohibited",
-      "rdfs:label": "不許可"
-    },
-    {
       "@id": "entity:5351494",
+      "@type": "vr:Avatar",
       "rdfs:label": "【VRChat 】オリジナル3Dアバター 凪夜 瑠璃 / Nagiya Ruri",
       "schema:license": {
         "@id": "https://tinyurl.com/yq7zmaxe"
@@ -20,6 +17,10 @@
       "schema:url": {
         "@id": "https://booth.pm/ja/items/5351494"
       }
+    },
+    {
+      "@id": "vr:Prohibited",
+      "rdfs:label": "不許可"
     },
     {
       "@id": "https://tinyurl.com/yq7zmaxe",

@@ -27,6 +27,7 @@
     },
     {
       "@id": "entity:5058077",
+      "@type": "vr:Avatar",
       "rdfs:label": "オリジナル3Dモデル「マヌカ」ver1.02",
       "schema:license": {
         "@id": "https://drive.google.com/file/d/1YI2J3eIl6HaaDhrw6MP5742rKh_L7e7j/view?usp=sharing"

@@ -8,6 +8,7 @@
   "@graph": [
     {
       "@id": "entity:4887691",
+      "@type": "vr:Avatar",
       "rdfs:label": "オリジナル3Dモデル『ルゼブル』-Lzebul-",
       "schema:license": {
         "@id": "https://drive.google.com/file/d/1qLjryvvwFsshxJnfnTejAL8GHIhbLVv1/view?usp=sharing"

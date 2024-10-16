@@ -7,6 +7,10 @@
   },
   "@graph": [
     {
+      "@id": "vr:Prohibited",
+      "rdfs:label": "不許可"
+    },
+    {
       "@id": "https://booth.pm/ja/items/1130532#license",
       "vr:political": {
         "@id": "vr:Prohibited"
@@ -19,15 +23,8 @@
       }
     },
     {
-      "@id": "vr:Prohibited",
-      "rdfs:label": "不許可"
-    },
-    {
-      "@id": "vr:Permitted",
-      "rdfs:label": "許可"
-    },
-    {
       "@id": "entity:1130532",
+      "@type": "vr:Avatar",
       "rdfs:label": "【オリジナル3Dモデル】メディカルセンタースタッフさん",
       "schema:license": {
         "@id": "https://booth.pm/ja/items/1130532#license"
@@ -36,6 +33,10 @@
       "schema:url": {
         "@id": "https://booth.pm/ja/items/1130532"
       }
+    },
+    {
+      "@id": "vr:Permitted",
+      "rdfs:label": "許可"
     }
   ]
 }

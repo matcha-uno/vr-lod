@@ -7,6 +7,10 @@
   },
   "@graph": [
     {
+      "@id": "vr:Prohibited",
+      "rdfs:label": "不許可"
+    },
+    {
       "@id": "https://drive.google.com/file/d/1LYKfZkYGoX-RSIVP3UqccbaMJ6SXaOUk/view?wusp=sharing",
       "schema:isBasedOn": {
         "@id": "https://www.vn3.org/terms"
@@ -22,11 +26,8 @@
       }
     },
     {
-      "@id": "vr:Prohibited",
-      "rdfs:label": "不許可"
-    },
-    {
       "@id": "entity:1333754",
+      "@type": "vr:Avatar",
       "rdfs:label": "CyberCat2.0【オリジナル3Dモデル】",
       "schema:license": {
         "@id": "https://drive.google.com/file/d/1LYKfZkYGoX-RSIVP3UqccbaMJ6SXaOUk/view?wusp=sharing"

@@ -11,11 +11,8 @@
       "rdfs:label": "不許可"
     },
     {
-      "@id": "vr:Permitted",
-      "rdfs:label": "許可"
-    },
-    {
       "@id": "entity:3162696",
+      "@type": "vr:Avatar",
       "rdfs:label": "【オリジナル3Dモデル】碼希-まき-",
       "schema:license": {
         "@id": "https://drive.google.com/file/d/1rzFcYHyEfmLfmZIP2NarrbwosyCM0rTL/view?usp=sharing"
@@ -24,6 +21,10 @@
       "schema:url": {
         "@id": "https://booth.pm/ja/items/3162696"
       }
+    },
+    {
+      "@id": "vr:Permitted",
+      "rdfs:label": "許可"
     },
     {
       "@id": "https://drive.google.com/file/d/1rzFcYHyEfmLfmZIP2NarrbwosyCM0rTL/view?usp=sharing",

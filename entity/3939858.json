@@ -7,6 +7,10 @@
   },
   "@graph": [
     {
+      "@id": "vr:Prohibited",
+      "rdfs:label": "不許可"
+    },
+    {
       "@id": "https://booth.pm/ja/items/3939858#license",
       "schema:isBasedOn": {
         "@id": "https://www.vn3.org/terms"
@@ -26,11 +30,8 @@
       "rdfs:label": "許可"
     },
     {
-      "@id": "vr:Prohibited",
-      "rdfs:label": "不許可"
-    },
-    {
       "@id": "entity:3939858",
+      "@type": "vr:Avatar",
       "rdfs:label": "【オリジナル3Dモデル】サフィー-Sapphy-",
       "schema:license": {
         "@id": "https://booth.pm/ja/items/3939858#license"

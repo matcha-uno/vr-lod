@@ -7,6 +7,10 @@
   },
   "@graph": [
     {
+      "@id": "vr:Prohibited",
+      "rdfs:label": "不許可"
+    },
+    {
       "@id": "https://drive.google.com/file/d/1kyxz4TX597x6P3mt8F9C7kLzyQrTFF-e/view?usp=sharing",
       "schema:isBasedOn": {
         "@id": "https://www.vn3.org/terms"
@@ -23,6 +27,7 @@
     },
     {
       "@id": "entity:2616595",
+      "@type": "vr:Avatar",
       "rdfs:label": "オリジナル3Dモデル「狐薄 -こはく-」#Kohaku3D",
       "schema:license": {
         "@id": "https://drive.google.com/file/d/1kyxz4TX597x6P3mt8F9C7kLzyQrTFF-e/view?usp=sharing"
@@ -31,10 +36,6 @@
       "schema:url": {
         "@id": "https://booth.pm/ja/items/2616595"
       }
-    },
-    {
-      "@id": "vr:Prohibited",
-      "rdfs:label": "不許可"
     },
     {
       "@id": "vr:Permitted",

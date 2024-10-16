@@ -7,6 +7,10 @@
   },
   "@graph": [
     {
+      "@id": "vr:Prohibited",
+      "rdfs:label": "不許可"
+    },
+    {
       "@id": "https://booth.pm/ja/items/3190100#license",
       "vr:political": {
         "@id": "vr:Prohibited"
@@ -19,11 +23,8 @@
       }
     },
     {
-      "@id": "vr:Prohibited",
-      "rdfs:label": "不許可"
-    },
-    {
       "@id": "entity:3190100",
+      "@type": "vr:Avatar",
       "rdfs:label": "Grus",
       "schema:license": {
         "@id": "https://booth.pm/ja/items/3190100#license"

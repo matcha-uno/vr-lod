@@ -7,6 +7,10 @@
   },
   "@graph": [
     {
+      "@id": "vr:Prohibited",
+      "rdfs:label": "不許可"
+    },
+    {
       "@id": "https://drive.google.com/file/d/14EWy4a1Jwog5NlutPdXau2JidrLI1ni4/view?usp=sharing",
       "schema:isBasedOn": {
         "@id": "https://www.vn3.org/terms"
@@ -22,7 +26,12 @@
       }
     },
     {
+      "@id": "vr:Permitted",
+      "rdfs:label": "許可"
+    },
+    {
       "@id": "entity:2953001",
+      "@type": "vr:Avatar",
       "rdfs:label": "【オリジナル3Dモデル】セフィラ（Sephira）◆アッシュ共通素体",
       "schema:license": {
         "@id": "https://drive.google.com/file/d/14EWy4a1Jwog5NlutPdXau2JidrLI1ni4/view?usp=sharing"
@@ -31,14 +40,6 @@
       "schema:url": {
         "@id": "https://booth.pm/ja/items/2953001"
       }
-    },
-    {
-      "@id": "vr:Prohibited",
-      "rdfs:label": "不許可"
-    },
-    {
-      "@id": "vr:Permitted",
-      "rdfs:label": "許可"
     }
   ]
 }

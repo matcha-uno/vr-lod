@@ -7,6 +7,10 @@
   },
   "@graph": [
     {
+      "@id": "vr:Prohibited",
+      "rdfs:label": "不許可"
+    },
+    {
       "@id": "https://drive.google.com/file/d/1KKk3fotTlwdAckCbls4mqeWZaWLWTUFx/view?usp=sharing",
       "schema:isBasedOn": {
         "@id": "https://www.vn3.org/terms"
@@ -22,15 +26,8 @@
       }
     },
     {
-      "@id": "vr:Prohibited",
-      "rdfs:label": "不許可"
-    },
-    {
-      "@id": "vr:Permitted",
-      "rdfs:label": "許可"
-    },
-    {
       "@id": "entity:3564947",
+      "@type": "vr:Avatar",
       "rdfs:label": "オリジナル3Dモデル『あのん』",
       "schema:license": {
         "@id": "https://drive.google.com/file/d/1KKk3fotTlwdAckCbls4mqeWZaWLWTUFx/view?usp=sharing"
@@ -39,6 +36,10 @@
       "schema:url": {
         "@id": "https://booth.pm/ja/items/3564947"
       }
+    },
+    {
+      "@id": "vr:Permitted",
+      "rdfs:label": "許可"
     }
   ]
 }
